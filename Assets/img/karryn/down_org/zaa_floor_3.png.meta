@@ -1,0 +1,1487 @@
+fileFormatVersion: 2
+guid: 5280316f3b4f8ae4597d8a5ea475df85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4850497259369028933
+    second: zaa_floor_3_0
+  - first:
+      213: 9156422258572344023
+    second: zaa_floor_3_1
+  - first:
+      213: 3719991721790323127
+    second: zaa_floor_3_2
+  - first:
+      213: 201636518437495913
+    second: zaa_floor_3_3
+  - first:
+      213: -1723388077848236341
+    second: zaa_floor_3_4
+  - first:
+      213: -733495288662837820
+    second: zaa_floor_3_5
+  - first:
+      213: -3681544250064173520
+    second: zaa_floor_3_6
+  - first:
+      213: -2679730064543783943
+    second: zaa_floor_3_7
+  - first:
+      213: -4754365691688538369
+    second: zaa_floor_3_8
+  - first:
+      213: 5649760824585536860
+    second: zaa_floor_3_9
+  - first:
+      213: 3356806080238621340
+    second: zaa_floor_3_10
+  - first:
+      213: -8080329713539133690
+    second: zaa_floor_3_11
+  - first:
+      213: -9040095310989045145
+    second: zaa_floor_3_12
+  - first:
+      213: -2339711176434299034
+    second: zaa_floor_3_13
+  - first:
+      213: -236203687192121610
+    second: zaa_floor_3_14
+  - first:
+      213: 1724690240718136781
+    second: zaa_floor_3_15
+  - first:
+      213: 5696795140416458621
+    second: zaa_floor_3_16
+  - first:
+      213: -7516548543762000020
+    second: zaa_floor_3_17
+  - first:
+      213: 6731485873055401407
+    second: zaa_floor_3_18
+  - first:
+      213: -4793120587436250871
+    second: zaa_floor_3_19
+  - first:
+      213: -3322252358741872729
+    second: zaa_floor_3_20
+  - first:
+      213: -2540249141713696390
+    second: zaa_floor_3_21
+  - first:
+      213: 189023588746947673
+    second: zaa_floor_3_22
+  - first:
+      213: -1626100778050393511
+    second: zaa_floor_3_23
+  - first:
+      213: 7254060700282551822
+    second: zaa_floor_3_24
+  - first:
+      213: -8163727613281072496
+    second: zaa_floor_3_25
+  - first:
+      213: 4724601282313352806
+    second: zaa_floor_3_26
+  - first:
+      213: 4957230999029475055
+    second: zaa_floor_3_27
+  - first:
+      213: 5279294632575157150
+    second: zaa_floor_3_28
+  - first:
+      213: 4347994276648396685
+    second: zaa_floor_3_29
+  - first:
+      213: -7820082308970437824
+    second: zaa_floor_3_30
+  - first:
+      213: 7042694075430984683
+    second: zaa_floor_3_31
+  - first:
+      213: -8355359553418901821
+    second: zaa_floor_3_32
+  - first:
+      213: -614991000553553176
+    second: zaa_floor_3_33
+  - first:
+      213: -6637907822569431779
+    second: zaa_floor_3_34
+  - first:
+      213: 4501590014492754193
+    second: zaa_floor_3_35
+  - first:
+      213: -8710644804605767655
+    second: zaa_floor_3_36
+  - first:
+      213: -5262315004024383232
+    second: zaa_floor_3_37
+  - first:
+      213: -1331190426154306255
+    second: zaa_floor_3_38
+  - first:
+      213: -2991204078457552332
+    second: zaa_floor_3_39
+  - first:
+      213: 1975994334736022590
+    second: zaa_floor_3_40
+  - first:
+      213: 4042447841444230545
+    second: zaa_floor_3_41
+  - first:
+      213: 7192243879384826137
+    second: zaa_floor_3_42
+  - first:
+      213: -1054765037771016895
+    second: zaa_floor_3_43
+  - first:
+      213: -7903814167857726827
+    second: zaa_floor_3_44
+  - first:
+      213: 6255716144328117655
+    second: zaa_floor_3_45
+  - first:
+      213: -1353015420439610922
+    second: zaa_floor_3_46
+  - first:
+      213: -1783724963478442398
+    second: zaa_floor_3_47
+  - first:
+      213: -337969936464548029
+    second: zaa_floor_3_48
+  - first:
+      213: -2089781343932794933
+    second: zaa_floor_3_49
+  - first:
+      213: 7063579949088777424
+    second: zaa_floor_3_50
+  - first:
+      213: -6419327857544544004
+    second: zaa_floor_3_51
+  - first:
+      213: -2466592094030041290
+    second: zaa_floor_3_52
+  - first:
+      213: 2026948979159782744
+    second: zaa_floor_3_53
+  - first:
+      213: -3881273057190985165
+    second: zaa_floor_3_54
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_floor_3_0
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 524
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2ad4f01729facb0800000000000000
+      internalID: -4850497259369028933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 493
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da3fa70885221f70800000000000000
+      internalID: 9156422258572344023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_2
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 482
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9b4b8f2c010a330800000000000000
+      internalID: 3719991721790323127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_3
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 505
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964a63f585b5cc200800000000000000
+      internalID: 201636518437495913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_4
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 487
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce66b19cab4518e0800000000000000
+      internalID: -1723388077848236341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_5
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 497
+        width: 87
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c534d2dbe912d5f0800000000000000
+      internalID: -733495288662837820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 461
+        width: 124
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0360b0e920788ecc0800000000000000
+      internalID: -3681544250064173520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 492
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3eee044bfafcad0800000000000000
+      internalID: -2679730064543783943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_8
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 487
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffea996d799150eb0800000000000000
+      internalID: -4754365691688538369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_9
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 481
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55c657498bf76e40800000000000000
+      internalID: 5649760824585536860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_10
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 474
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c929e784855c59e20800000000000000
+      internalID: 3356806080238621340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_11
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 472
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f477cdfe6ecdf80800000000000000
+      internalID: -8080329713539133690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_12
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 438
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762d2dc06312b8280800000000000000
+      internalID: -9040095310989045145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_13
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 453
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f4f93d41da78fd0800000000000000
+      internalID: -2339711176434299034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_14
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 424
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fea64a7ff5d8bcf0800000000000000
+      internalID: -236203687192121610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_15
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 446
+        width: 112
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc56699d2a45fe710800000000000000
+      internalID: 1724690240718136781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_16
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 433
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fc1be4ff41f0f40800000000000000
+      internalID: 5696795140416458621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_17
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 454
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6716108ceadfa790800000000000000
+      internalID: -7516548543762000020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_18
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 430
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb507029cba0b6d50800000000000000
+      internalID: 6731485873055401407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 388
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9092044883a6b7db0800000000000000
+      internalID: -4793120587436250871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_20
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 402
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afacfee41df4e1d0800000000000000
+      internalID: -3322252358741872729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 379
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a790a2b4dd83fbcd0800000000000000
+      internalID: -2540249141713696390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_22
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 346
+        width: 99
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c6e65d3fb8f9200800000000000000
+      internalID: 189023588746947673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_23
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 384
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ae15335fdee69e0800000000000000
+      internalID: -1626100778050393511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_24
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 366
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e7673f5c99ba460800000000000000
+      internalID: 7254060700282551822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 345
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a855f2dfc94be80800000000000000
+      internalID: -8163727613281072496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_26
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 355
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66674a195d7219140800000000000000
+      internalID: 4724601282313352806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_27
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 318
+        width: 142
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6e4be345f9bc440800000000000000
+      internalID: 4957230999029475055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_28
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 360
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93c4475f72d34940800000000000000
+      internalID: 5279294632575157150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_29
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 336
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d872f0902cd275c30800000000000000
+      internalID: 4347994276648396685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_30
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 318
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0432083929c797390800000000000000
+      internalID: -7820082308970437824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_31
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 317
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebdfc3a2fcacb160800000000000000
+      internalID: 7042694075430984683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_32
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 316
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6ccc731cccb0c80800000000000000
+      internalID: -8355359553418901821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_33
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 291
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e281ff71fc1777f0800000000000000
+      internalID: -614991000553553176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_34
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 281
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d56f7210a61e3a0800000000000000
+      internalID: -6637907822569431779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_35
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 267
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111494a844cd87e30800000000000000
+      internalID: 4501590014492754193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_36
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 226
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9101fd083b29d1780800000000000000
+      internalID: -8710644804605767655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_37
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 75
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0091be0826088f6b0800000000000000
+      internalID: -5262315004024383232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_38
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 96
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135fba04c59a68de0800000000000000
+      internalID: -1331190426154306255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_39
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 54
+        width: 148
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43286dc1dbb1d76d0800000000000000
+      internalID: -2991204078457552332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_40
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 84
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cff10d0642c6b10800000000000000
+      internalID: 1975994334736022590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_41
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 69
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195f35cd4e8a91830800000000000000
+      internalID: 4042447841444230545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_42
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 28
+        width: 113
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911c5b0c3bbffc360800000000000000
+      internalID: 7192243879384826137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_43
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 39
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145382a59c8bc51f0800000000000000
+      internalID: -1054765037771016895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_44
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 35
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59af32af3e2005290800000000000000
+      internalID: -7903814167857726827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_45
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 34
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d8a5660b4c0d650800000000000000
+      internalID: 6255716144328117655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_46
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 41
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d93219c4af193de0800000000000000
+      internalID: -1353015420439610922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_47
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 40
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eeed6a89fee37e0800000000000000
+      internalID: -1783724963478442398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_48
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 41
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fe448222a4f4bf0800000000000000
+      internalID: -337969936464548029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_49
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 43
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7b5a890fa9ff2e0800000000000000
+      internalID: -2089781343932794933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_50
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6
+        width: 158
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4220c0a80e60260800000000000000
+      internalID: 7063579949088777424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_51
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 205
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0c94a1357f9e6a0800000000000000
+      internalID: -6419327857544544004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_52
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 0
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f6d8d1f87e4cdd0800000000000000
+      internalID: -2466592094030041290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_53
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 7
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855d8a87b5b212c10800000000000000
+      internalID: 2026948979159782744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_floor_3_54
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 0
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33246d5e7b2f22ac0800000000000000
+      internalID: -3881273057190985165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_floor_3_0: -4850497259369028933
+      zaa_floor_3_1: 9156422258572344023
+      zaa_floor_3_10: 3356806080238621340
+      zaa_floor_3_11: -8080329713539133690
+      zaa_floor_3_12: -9040095310989045145
+      zaa_floor_3_13: -2339711176434299034
+      zaa_floor_3_14: -236203687192121610
+      zaa_floor_3_15: 1724690240718136781
+      zaa_floor_3_16: 5696795140416458621
+      zaa_floor_3_17: -7516548543762000020
+      zaa_floor_3_18: 6731485873055401407
+      zaa_floor_3_19: -4793120587436250871
+      zaa_floor_3_2: 3719991721790323127
+      zaa_floor_3_20: -3322252358741872729
+      zaa_floor_3_21: -2540249141713696390
+      zaa_floor_3_22: 189023588746947673
+      zaa_floor_3_23: -1626100778050393511
+      zaa_floor_3_24: 7254060700282551822
+      zaa_floor_3_25: -8163727613281072496
+      zaa_floor_3_26: 4724601282313352806
+      zaa_floor_3_27: 4957230999029475055
+      zaa_floor_3_28: 5279294632575157150
+      zaa_floor_3_29: 4347994276648396685
+      zaa_floor_3_3: 201636518437495913
+      zaa_floor_3_30: -7820082308970437824
+      zaa_floor_3_31: 7042694075430984683
+      zaa_floor_3_32: -8355359553418901821
+      zaa_floor_3_33: -614991000553553176
+      zaa_floor_3_34: -6637907822569431779
+      zaa_floor_3_35: 4501590014492754193
+      zaa_floor_3_36: -8710644804605767655
+      zaa_floor_3_37: -5262315004024383232
+      zaa_floor_3_38: -1331190426154306255
+      zaa_floor_3_39: -2991204078457552332
+      zaa_floor_3_4: -1723388077848236341
+      zaa_floor_3_40: 1975994334736022590
+      zaa_floor_3_41: 4042447841444230545
+      zaa_floor_3_42: 7192243879384826137
+      zaa_floor_3_43: -1054765037771016895
+      zaa_floor_3_44: -7903814167857726827
+      zaa_floor_3_45: 6255716144328117655
+      zaa_floor_3_46: -1353015420439610922
+      zaa_floor_3_47: -1783724963478442398
+      zaa_floor_3_48: -337969936464548029
+      zaa_floor_3_49: -2089781343932794933
+      zaa_floor_3_5: -733495288662837820
+      zaa_floor_3_50: 7063579949088777424
+      zaa_floor_3_51: -6419327857544544004
+      zaa_floor_3_52: -2466592094030041290
+      zaa_floor_3_53: 2026948979159782744
+      zaa_floor_3_54: -3881273057190985165
+      zaa_floor_3_6: -3681544250064173520
+      zaa_floor_3_7: -2679730064543783943
+      zaa_floor_3_8: -4754365691688538369
+      zaa_floor_3_9: 5649760824585536860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

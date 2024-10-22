@@ -1,0 +1,51 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "karryns live2d.moc3",
+		"Textures": [
+			"karryns live2d.4096/texture_00.png"
+		],
+		"Physics": "karryns live2d.physics3.json",
+		"DisplayInfo": "karryns live2d.cdi3.json"
+				"Motions": {
+			"Idle": [
+				{
+					"File": "karryns-02.motion3.json"
+				},
+				{
+					"File": "karryns-01.motion3.json"
+				}
+			],
+			"TapCxc": [
+				{
+					"File": "chon1.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": [
+		{
+			"Id": "HitArea",
+			"Name": "Maz"
+		},
+		{
+			"Id": "HitArea2",
+			"Name": "Cxc"
+		}
+	]
+}

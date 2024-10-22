@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 9d1d13194fb3c1e4ba6f6fc8eba65951
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2346522346605378243
+    second: zaa_boobs_hold_2_0
+  - first:
+      213: 5110715503294608234
+    second: zaa_boobs_hold_2_1
+  - first:
+      213: 6293760722346635158
+    second: zaa_boobs_hold_2_2
+  - first:
+      213: -8710946461851706516
+    second: zaa_boobs_hold_2_3
+  - first:
+      213: 8635743860285513454
+    second: zaa_boobs_hold_2_4
+  - first:
+      213: 1753193355393630210
+    second: zaa_boobs_hold_2_5
+  - first:
+      213: -3975703793164294262
+    second: zaa_boobs_hold_2_6
+  - first:
+      213: 5737830315951057231
+    second: zaa_boobs_hold_2_7
+  - first:
+      213: 4264833762634152405
+    second: zaa_boobs_hold_2_8
+  - first:
+      213: -3181983750761433345
+    second: zaa_boobs_hold_2_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_boobs_hold_2_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 295
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d350211bb5a7f6fd0800000000000000
+      internalID: -2346522346605378243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_hold_2_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 311
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63f4f92ca8ece640800000000000000
+      internalID: 5110715503294608234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_hold_2_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 254
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fe6ccf70ee75750800000000000000
+      internalID: 6293760722346635158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_hold_2_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 295
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b12e378508c1780800000000000000
+      internalID: -8710946461851706516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_hold_2_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 293
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee149b694358d770800000000000000
+      internalID: 8635743860285513454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_hold_2_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 264
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20000d26118945810800000000000000
+      internalID: 1753193355393630210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_hold_2_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 252
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87e44cd67673d8c0800000000000000
+      internalID: -3975703793164294262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_hold_2_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 175
+        width: 41
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49eab3a54ed0af40800000000000000
+      internalID: 5737830315951057231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_hold_2_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 201
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9b6e706bbbf2b30800000000000000
+      internalID: 4264833762634152405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_hold_2_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 181
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6bcc633a257d3d0800000000000000
+      internalID: -3181983750761433345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_boobs_hold_2_0: -2346522346605378243
+      zaa_boobs_hold_2_1: 5110715503294608234
+      zaa_boobs_hold_2_2: 6293760722346635158
+      zaa_boobs_hold_2_3: -8710946461851706516
+      zaa_boobs_hold_2_4: 8635743860285513454
+      zaa_boobs_hold_2_5: 1753193355393630210
+      zaa_boobs_hold_2_6: -3975703793164294262
+      zaa_boobs_hold_2_7: 5737830315951057231
+      zaa_boobs_hold_2_8: 4264833762634152405
+      zaa_boobs_hold_2_9: -3181983750761433345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

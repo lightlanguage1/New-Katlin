@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 42c84ee64ba345540ad6a175e19e10da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7564441608437618565
+    second: zaa_rightboob_suck_fingers_1_0
+  - first:
+      213: -8129763725616677555
+    second: zaa_rightboob_suck_fingers_1_1
+  - first:
+      213: 5439544129271471197
+    second: zaa_rightboob_suck_fingers_1_2
+  - first:
+      213: -4417591870065933937
+    second: zaa_rightboob_suck_fingers_1_3
+  - first:
+      213: -1627577970876260129
+    second: zaa_rightboob_suck_fingers_1_4
+  - first:
+      213: -639634054335928283
+    second: zaa_rightboob_suck_fingers_1_5
+  - first:
+      213: -708264217299363834
+    second: zaa_rightboob_suck_fingers_1_6
+  - first:
+      213: -2361007437603782327
+    second: zaa_rightboob_suck_fingers_1_7
+  - first:
+      213: -3855304142078967284
+    second: zaa_rightboob_suck_fingers_1_8
+  - first:
+      213: 8089909228107311635
+    second: zaa_rightboob_suck_fingers_1_9
+  - first:
+      213: -1498541809714043330
+    second: zaa_rightboob_suck_fingers_1_10
+  - first:
+      213: -4035015673388101483
+    second: zaa_rightboob_suck_fingers_1_11
+  - first:
+      213: -4954312403421391981
+    second: zaa_rightboob_suck_fingers_1_12
+  - first:
+      213: -5262234523366293891
+    second: zaa_rightboob_suck_fingers_1_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_0
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 532
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7824ec6f64b50790800000000000000
+      internalID: -7564441608437618565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_1
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 470
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4df2c207f64d2f80800000000000000
+      internalID: -8129763725616677555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_2
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 531
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c994dc0942d7b40800000000000000
+      internalID: 5439544129271471197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 503
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81011e799f81b2c0800000000000000
+      internalID: -4417591870065933937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 472
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd06ba1757ea969e0800000000000000
+      internalID: -1627577970876260129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 510
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528601d67309f17f0800000000000000
+      internalID: -639634054335928283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_6
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 400
+        width: 59
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60850c8627dbb26f0800000000000000
+      internalID: -708264217299363834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_7
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 435
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9414291ae340c3fd0800000000000000
+      internalID: -2361007437603782327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_8
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 500
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c028a4e1f453f7ac0800000000000000
+      internalID: -3855304142078967284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 455
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aad7ea491254070800000000000000
+      internalID: 8089909228107311635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 411
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e366ce6e92c143be0800000000000000
+      internalID: -1498541809714043330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 445
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590919c9f9eb008c0800000000000000
+      internalID: -4035015673388101483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 392
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39391cf3e1fbe3bb0800000000000000
+      internalID: -4954312403421391981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightboob_suck_fingers_1_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 411
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e74fdd499c8f6b0800000000000000
+      internalID: -5262234523366293891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_rightboob_suck_fingers_1_0: -7564441608437618565
+      zaa_rightboob_suck_fingers_1_1: -8129763725616677555
+      zaa_rightboob_suck_fingers_1_10: -1498541809714043330
+      zaa_rightboob_suck_fingers_1_11: -4035015673388101483
+      zaa_rightboob_suck_fingers_1_12: -4954312403421391981
+      zaa_rightboob_suck_fingers_1_13: -5262234523366293891
+      zaa_rightboob_suck_fingers_1_2: 5439544129271471197
+      zaa_rightboob_suck_fingers_1_3: -4417591870065933937
+      zaa_rightboob_suck_fingers_1_4: -1627577970876260129
+      zaa_rightboob_suck_fingers_1_5: -639634054335928283
+      zaa_rightboob_suck_fingers_1_6: -708264217299363834
+      zaa_rightboob_suck_fingers_1_7: -2361007437603782327
+      zaa_rightboob_suck_fingers_1_8: -3855304142078967284
+      zaa_rightboob_suck_fingers_1_9: 8089909228107311635
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: a71d12d375389134c9c9d55a3c975fc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 968251304946352792
+    second: zaa_rightarm_normal_1_0
+  - first:
+      213: 5059952870721301689
+    second: zaa_rightarm_normal_1_1
+  - first:
+      213: 8615243719596161531
+    second: zaa_rightarm_normal_1_2
+  - first:
+      213: 7030942643357376453
+    second: zaa_rightarm_normal_1_3
+  - first:
+      213: 1242260500959362770
+    second: zaa_rightarm_normal_1_4
+  - first:
+      213: 3005765939246511522
+    second: zaa_rightarm_normal_1_5
+  - first:
+      213: 5391095852856947751
+    second: zaa_rightarm_normal_1_6
+  - first:
+      213: -6655085028737038558
+    second: zaa_rightarm_normal_1_7
+  - first:
+      213: -6193531571036450657
+    second: zaa_rightarm_normal_1_8
+  - first:
+      213: 8293054285058082948
+    second: zaa_rightarm_normal_1_9
+  - first:
+      213: -3074134480957657090
+    second: zaa_rightarm_normal_1_10
+  - first:
+      213: 4958349634795085605
+    second: zaa_rightarm_normal_1_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_rightarm_normal_1_0
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 466
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892c2ac8e6bef6d00800000000000000
+      internalID: 968251304946352792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_normal_1_1
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 386
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcaf8fb350983640800000000000000
+      internalID: 5059952870721301689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_normal_1_2
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 171
+        width: 332
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9b1f7748e7f8770800000000000000
+      internalID: 8615243719596161531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_normal_1_3
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 320
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf5675251de29160800000000000000
+      internalID: 7030942643357376453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_normal_1_4
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 265
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de7e2608556d3110800000000000000
+      internalID: 1242260500959362770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_normal_1_5
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 201
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5b1ce4230a6b920800000000000000
+      internalID: 3005765939246511522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_normal_1_6
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 156
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724be9b6d1501da40800000000000000
+      internalID: 5391095852856947751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_normal_1_7
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 176
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227cb103d6364a3a0800000000000000
+      internalID: -6655085028737038558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_normal_1_8
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 115
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f909433d9d72c0aa0800000000000000
+      internalID: -6193531571036450657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_normal_1_9
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 121
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4880beb0fe8d61370800000000000000
+      internalID: 8293054285058082948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_normal_1_10
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 94
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff2dbe1afa7655d0800000000000000
+      internalID: -3074134480957657090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_normal_1_11
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 54
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f162ee8b89fc440800000000000000
+      internalID: 4958349634795085605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_rightarm_normal_1_0: 968251304946352792
+      zaa_rightarm_normal_1_1: 5059952870721301689
+      zaa_rightarm_normal_1_10: -3074134480957657090
+      zaa_rightarm_normal_1_11: 4958349634795085605
+      zaa_rightarm_normal_1_2: 8615243719596161531
+      zaa_rightarm_normal_1_3: 7030942643357376453
+      zaa_rightarm_normal_1_4: 1242260500959362770
+      zaa_rightarm_normal_1_5: 3005765939246511522
+      zaa_rightarm_normal_1_6: 5391095852856947751
+      zaa_rightarm_normal_1_7: -6655085028737038558
+      zaa_rightarm_normal_1_8: -6193531571036450657
+      zaa_rightarm_normal_1_9: 8293054285058082948
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

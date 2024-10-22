@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 79fd3522fb7d3fe4680b8fa570314051
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1887813271939024924
+    second: kon_floor_5_0
+  - first:
+      213: 8974645099414408830
+    second: kon_floor_5_1
+  - first:
+      213: 1135950072586834770
+    second: kon_floor_5_2
+  - first:
+      213: 6332985473201891748
+    second: kon_floor_5_3
+  - first:
+      213: 8618679803853617722
+    second: kon_floor_5_4
+  - first:
+      213: -8249091336576097913
+    second: kon_floor_5_5
+  - first:
+      213: 500028620103244165
+    second: kon_floor_5_6
+  - first:
+      213: 6721372598296040508
+    second: kon_floor_5_7
+  - first:
+      213: -5417919838424616410
+    second: kon_floor_5_8
+  - first:
+      213: -6383958300224007558
+    second: kon_floor_5_9
+  - first:
+      213: 9080062263949212362
+    second: kon_floor_5_10
+  - first:
+      213: -3831100606755543008
+    second: kon_floor_5_11
+  - first:
+      213: 6350625199843282339
+    second: kon_floor_5_12
+  - first:
+      213: -629912951041311732
+    second: kon_floor_5_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kon_floor_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 112
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1881343b2cd23a10800000000000000
+      internalID: 1887813271939024924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kon_floor_5_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 115
+        width: 87
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ecbcf0b285c8c70800000000000000
+      internalID: 8974645099414408830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kon_floor_5_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 117
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2531e1f8294b3cf00800000000000000
+      internalID: 1135950072586834770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kon_floor_5_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 96
+        width: 93
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a968e9fbb843e750800000000000000
+      internalID: 6332985473201891748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kon_floor_5_4
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 134
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a378d2e93bb9770800000000000000
+      internalID: 8618679803853617722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kon_floor_5_5
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 67
+        width: 272
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78121ab8227558d80800000000000000
+      internalID: -8249091336576097913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kon_floor_5_6
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 88
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58958c6716570f600800000000000000
+      internalID: 500028620103244165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kon_floor_5_7
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 58
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34da7c44cc174d50800000000000000
+      internalID: 6721372598296040508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kon_floor_5_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622b821cc9eafc4b0800000000000000
+      internalID: -5417919838424616410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kon_floor_5_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72dd36efbf9767a0800000000000000
+      internalID: -6383958300224007558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kon_floor_5_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca3f15558cd20e70800000000000000
+      internalID: 9080062263949212362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kon_floor_5_11
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 0
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0286d83db4235dac0800000000000000
+      internalID: -3831100606755543008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kon_floor_5_12
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad8d42e8f3f12850800000000000000
+      internalID: 6350625199843282339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kon_floor_5_13
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 31
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cb3c922891247f0800000000000000
+      internalID: -629912951041311732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kon_floor_5_0: 1887813271939024924
+      kon_floor_5_1: 8974645099414408830
+      kon_floor_5_10: 9080062263949212362
+      kon_floor_5_11: -3831100606755543008
+      kon_floor_5_12: 6350625199843282339
+      kon_floor_5_13: -629912951041311732
+      kon_floor_5_2: 1135950072586834770
+      kon_floor_5_3: 6332985473201891748
+      kon_floor_5_4: 8618679803853617722
+      kon_floor_5_5: -8249091336576097913
+      kon_floor_5_6: 500028620103244165
+      kon_floor_5_7: 6721372598296040508
+      kon_floor_5_8: -5417919838424616410
+      kon_floor_5_9: -6383958300224007558
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

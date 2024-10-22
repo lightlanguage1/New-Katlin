@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: ff239cf6fb44239438e7858c5f2fc461
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2662597750640645822
+    second: zaa_rightarm_peace_1_0
+  - first:
+      213: -3004799782461142596
+    second: zaa_rightarm_peace_1_1
+  - first:
+      213: -7127222170773393936
+    second: zaa_rightarm_peace_1_2
+  - first:
+      213: 7734197934444660888
+    second: zaa_rightarm_peace_1_3
+  - first:
+      213: -7849490992116834896
+    second: zaa_rightarm_peace_1_4
+  - first:
+      213: 7674121262023183799
+    second: zaa_rightarm_peace_1_5
+  - first:
+      213: -2707964357517222868
+    second: zaa_rightarm_peace_1_6
+  - first:
+      213: -2275926724918213917
+    second: zaa_rightarm_peace_1_7
+  - first:
+      213: 7432401676516716190
+    second: zaa_rightarm_peace_1_8
+  - first:
+      213: -7112692800093204255
+    second: zaa_rightarm_peace_1_9
+  - first:
+      213: -3651308646543071864
+    second: zaa_rightarm_peace_1_10
+  - first:
+      213: -5770924184233109856
+    second: zaa_rightarm_peace_1_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_rightarm_peace_1_0
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 645
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2496f4de37d8c0bd0800000000000000
+      internalID: -2662597750640645822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_peace_1_1
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 680
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb98b39948ecc46d0800000000000000
+      internalID: -3004799782461142596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_peace_1_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 653
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd63c38235071d90800000000000000
+      internalID: -7127222170773393936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_peace_1_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 653
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89842293b04655b60800000000000000
+      internalID: 7734197934444660888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_peace_1_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 562
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd5f33f781011390800000000000000
+      internalID: -7849490992116834896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_peace_1_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 602
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd0a2ae0a4ff7a60800000000000000
+      internalID: 7674121262023183799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_peace_1_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 546
+        width: 94
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c54c5a3c06b6ad0800000000000000
+      internalID: -2707964357517222868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_peace_1_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 489
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e28e6ab3b84a60e0800000000000000
+      internalID: -2275926724918213917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_peace_1_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 429
+        width: 96
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9eebcc32f1352760800000000000000
+      internalID: 7432401676516716190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_peace_1_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 471
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e057fd3593aa4d90800000000000000
+      internalID: -7112692800093204255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_peace_1_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 405
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885ec75a122f35dc0800000000000000
+      internalID: -3651308646543071864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_peace_1_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 321
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a61315b70f89efa0800000000000000
+      internalID: -5770924184233109856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_rightarm_peace_1_0: -2662597750640645822
+      zaa_rightarm_peace_1_1: -3004799782461142596
+      zaa_rightarm_peace_1_10: -3651308646543071864
+      zaa_rightarm_peace_1_11: -5770924184233109856
+      zaa_rightarm_peace_1_2: -7127222170773393936
+      zaa_rightarm_peace_1_3: 7734197934444660888
+      zaa_rightarm_peace_1_4: -7849490992116834896
+      zaa_rightarm_peace_1_5: 7674121262023183799
+      zaa_rightarm_peace_1_6: -2707964357517222868
+      zaa_rightarm_peace_1_7: -2275926724918213917
+      zaa_rightarm_peace_1_8: 7432401676516716190
+      zaa_rightarm_peace_1_9: -7112692800093204255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

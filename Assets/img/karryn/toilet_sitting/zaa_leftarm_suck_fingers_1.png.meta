@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 73c3ddbc77134d1438ac4ede9ab2c314
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7400096962670465625
+    second: zaa_leftarm_suck_fingers_1_0
+  - first:
+      213: -5679584925956842811
+    second: zaa_leftarm_suck_fingers_1_1
+  - first:
+      213: 2958125426297363004
+    second: zaa_leftarm_suck_fingers_1_2
+  - first:
+      213: 4607935791129356888
+    second: zaa_leftarm_suck_fingers_1_3
+  - first:
+      213: -3373349265664813414
+    second: zaa_leftarm_suck_fingers_1_4
+  - first:
+      213: -4785468373112790911
+    second: zaa_leftarm_suck_fingers_1_5
+  - first:
+      213: 1235467012950139158
+    second: zaa_leftarm_suck_fingers_1_6
+  - first:
+      213: -700346540422771712
+    second: zaa_leftarm_suck_fingers_1_7
+  - first:
+      213: -7554703458254681661
+    second: zaa_leftarm_suck_fingers_1_8
+  - first:
+      213: -723367185138815320
+    second: zaa_leftarm_suck_fingers_1_9
+  - first:
+      213: 7102393527330047382
+    second: zaa_leftarm_suck_fingers_1_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_leftarm_suck_fingers_1_0
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 605
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9529b6beafc62b660800000000000000
+      internalID: 7400096962670465625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_suck_fingers_1_1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 557
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cadda00a9f0e21b0800000000000000
+      internalID: -5679584925956842811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_suck_fingers_1_2
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 606
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a5183076f5d0920800000000000000
+      internalID: 2958125426297363004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_suck_fingers_1_3
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 498
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ae21a203da2ff30800000000000000
+      internalID: 4607935791129356888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_suck_fingers_1_4
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 541
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9659b437b47f21d0800000000000000
+      internalID: -3373349265664813414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_suck_fingers_1_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 524
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180eeb08ed9969db0800000000000000
+      internalID: -4785468373112790911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_suck_fingers_1_6
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 439
+        width: 13
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6112b96d3b2452110800000000000000
+      internalID: 1235467012950139158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_suck_fingers_1_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 372
+        width: 26
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c4d66388ed746f0800000000000000
+      internalID: -700346540422771712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_suck_fingers_1_8
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 372
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c980533b3d482790800000000000000
+      internalID: -7554703458254681661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_suck_fingers_1_9
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 407
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae60afa06516f5f0800000000000000
+      internalID: -723367185138815320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_suck_fingers_1_10
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 355
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6958a837845c09260800000000000000
+      internalID: 7102393527330047382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_leftarm_suck_fingers_1_0: 7400096962670465625
+      zaa_leftarm_suck_fingers_1_1: -5679584925956842811
+      zaa_leftarm_suck_fingers_1_10: 7102393527330047382
+      zaa_leftarm_suck_fingers_1_2: 2958125426297363004
+      zaa_leftarm_suck_fingers_1_3: 4607935791129356888
+      zaa_leftarm_suck_fingers_1_4: -3373349265664813414
+      zaa_leftarm_suck_fingers_1_5: -4785468373112790911
+      zaa_leftarm_suck_fingers_1_6: 1235467012950139158
+      zaa_leftarm_suck_fingers_1_7: -700346540422771712
+      zaa_leftarm_suck_fingers_1_8: -7554703458254681661
+      zaa_leftarm_suck_fingers_1_9: -723367185138815320
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

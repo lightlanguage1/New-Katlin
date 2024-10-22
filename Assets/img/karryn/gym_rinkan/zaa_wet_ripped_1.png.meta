@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 37235fa4b85c2b348862dbd16fc84953
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4221114833506399002
+    second: zaa_wet_ripped_1_0
+  - first:
+      213: 5235556056020940968
+    second: zaa_wet_ripped_1_1
+  - first:
+      213: -2006769605681418330
+    second: zaa_wet_ripped_1_2
+  - first:
+      213: -3009166711944542950
+    second: zaa_wet_ripped_1_3
+  - first:
+      213: 603905768706104525
+    second: zaa_wet_ripped_1_4
+  - first:
+      213: -1401011595889329208
+    second: zaa_wet_ripped_1_5
+  - first:
+      213: 8628849896882846609
+    second: zaa_wet_ripped_1_6
+  - first:
+      213: -7303502018981073905
+    second: zaa_wet_ripped_1_7
+  - first:
+      213: 1850006896001413043
+    second: zaa_wet_ripped_1_8
+  - first:
+      213: 1445475824969795229
+    second: zaa_wet_ripped_1_9
+  - first:
+      213: 9060606957843534755
+    second: zaa_wet_ripped_1_10
+  - first:
+      213: 2947296718275597230
+    second: zaa_wet_ripped_1_11
+  - first:
+      213: 6294884855747848135
+    second: zaa_wet_ripped_1_12
+  - first:
+      213: -1286599829591681226
+    second: zaa_wet_ripped_1_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_0
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 142
+        width: 158
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13f74f9399649a30800000000000000
+      internalID: 4221114833506399002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_1
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 317
+        width: 16
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8f5c86e7e68a840800000000000000
+      internalID: 5235556056020940968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 288
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afee4b0da58624e0800000000000000
+      internalID: -2006769605681418330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a158d9891da4d36d0800000000000000
+      internalID: -3009166711944542950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 71
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc5985d811816800800000000000000
+      internalID: 603905768706104525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 89
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb30dc506b9e8ce0800000000000000
+      internalID: -1401011595889329208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 71
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b3edb7345dfb770800000000000000
+      internalID: 8628849896882846609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 73
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ce84efb9fb4aa90800000000000000
+      internalID: -7303502018981073905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_8
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 78
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfef2c587b8ca910800000000000000
+      internalID: 1850006896001413043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 64
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d964db6ba9c5f0410800000000000000
+      internalID: 1445475824969795229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 45
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a352b3e50ebdbd70800000000000000
+      internalID: 9060606957843534755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_11
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 46
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3dd74ffb6e6e820800000000000000
+      internalID: 2947296718275597230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 19
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c726d0bc6ceb5750800000000000000
+      internalID: 6294884855747848135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_wet_ripped_1_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 26
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6371c1d8544152ee0800000000000000
+      internalID: -1286599829591681226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_wet_ripped_1_0: 4221114833506399002
+      zaa_wet_ripped_1_1: 5235556056020940968
+      zaa_wet_ripped_1_10: 9060606957843534755
+      zaa_wet_ripped_1_11: 2947296718275597230
+      zaa_wet_ripped_1_12: 6294884855747848135
+      zaa_wet_ripped_1_13: -1286599829591681226
+      zaa_wet_ripped_1_2: -2006769605681418330
+      zaa_wet_ripped_1_3: -3009166711944542950
+      zaa_wet_ripped_1_4: 603905768706104525
+      zaa_wet_ripped_1_5: -1401011595889329208
+      zaa_wet_ripped_1_6: 8628849896882846609
+      zaa_wet_ripped_1_7: -7303502018981073905
+      zaa_wet_ripped_1_8: 1850006896001413043
+      zaa_wet_ripped_1_9: 1445475824969795229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

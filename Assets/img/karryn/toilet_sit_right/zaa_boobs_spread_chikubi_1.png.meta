@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 1eab97fbbe9ea954587f7a5bbedaddf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -577668184973324541
+    second: zaa_boobs_spread_chikubi_1_0
+  - first:
+      213: -1038346168790895635
+    second: zaa_boobs_spread_chikubi_1_1
+  - first:
+      213: 3226557809720983450
+    second: zaa_boobs_spread_chikubi_1_2
+  - first:
+      213: -1748185739286749141
+    second: zaa_boobs_spread_chikubi_1_3
+  - first:
+      213: -6926606996736455017
+    second: zaa_boobs_spread_chikubi_1_4
+  - first:
+      213: -2587275048454029335
+    second: zaa_boobs_spread_chikubi_1_5
+  - first:
+      213: 4225771439642901070
+    second: zaa_boobs_spread_chikubi_1_6
+  - first:
+      213: 7974404251646870815
+    second: zaa_boobs_spread_chikubi_1_7
+  - first:
+      213: -8488596688286167179
+    second: zaa_boobs_spread_chikubi_1_8
+  - first:
+      213: -6966689022782698031
+    second: zaa_boobs_spread_chikubi_1_9
+  - first:
+      213: -6399156045904274688
+    second: zaa_boobs_spread_chikubi_1_10
+  - first:
+      213: -1782495677280991540
+    second: zaa_boobs_spread_chikubi_1_11
+  - first:
+      213: -2564612256364367679
+    second: zaa_boobs_spread_chikubi_1_12
+  - first:
+      213: 982827134590306631
+    second: zaa_boobs_spread_chikubi_1_13
+  - first:
+      213: 7480670862930219854
+    second: zaa_boobs_spread_chikubi_1_14
+  - first:
+      213: 529942958881773913
+    second: zaa_boobs_spread_chikubi_1_15
+  - first:
+      213: -5878033285337004111
+    second: zaa_boobs_spread_chikubi_1_16
+  - first:
+      213: 4758798612755125096
+    second: zaa_boobs_spread_chikubi_1_17
+  - first:
+      213: -871471880684617235
+    second: zaa_boobs_spread_chikubi_1_18
+  - first:
+      213: -3277877134751258442
+    second: zaa_boobs_spread_chikubi_1_19
+  - first:
+      213: -2314162650106657691
+    second: zaa_boobs_spread_chikubi_1_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_0
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 353
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fce9ca8d5bbf7f0800000000000000
+      internalID: -577668184973324541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_1
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 320
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3b45f29ad0791f0800000000000000
+      internalID: -1038346168790895635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_2
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 390
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f7eaf9b3907cc20800000000000000
+      internalID: 3226557809720983450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_3
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 255
+        width: 53
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20e86815523db7e0800000000000000
+      internalID: -1748185739286749141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_4
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 315
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ec9cc92afbfdf90800000000000000
+      internalID: -6926606996736455017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_5
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 342
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef7aa82d07281cd0800000000000000
+      internalID: -2587275048454029335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_6
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 291
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4af7e93cb4f4aa30800000000000000
+      internalID: 4225771439642901070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_7
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 345
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15c6caaa66caae60800000000000000
+      internalID: 7974404251646870815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_8
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 346
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f45295942723a80800000000000000
+      internalID: -8488596688286167179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_9
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 290
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd8c60be39515f90800000000000000
+      internalID: -6966689022782698031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_10
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 321
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b159dfa71a137a0800000000000000
+      internalID: -6399156045904274688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 318
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc64ff520ad4347e0800000000000000
+      internalID: -1782495677280991540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_12
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 267
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0f9c0adbaa86cd0800000000000000
+      internalID: -2564612256364367679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_13
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 300
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749ced85214b3ad00800000000000000
+      internalID: 982827134590306631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_14
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 286
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43129af38ea0d760800000000000000
+      internalID: 7480670862930219854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_15
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 306
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9591e57305cba5700800000000000000
+      internalID: 529942958881773913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_16
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 227
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7c091ced70d6ea0800000000000000
+      internalID: -5878033285337004111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_17
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 233
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86314e60026aa0240800000000000000
+      internalID: 4758798612755125096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_18
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 217
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de14d0811f8e7e3f0800000000000000
+      internalID: -871471880684617235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_19
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 186
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8a6c5ec14a282d0800000000000000
+      internalID: -3277877134751258442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_spread_chikubi_1_20
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 181
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5648ae7a45172efd0800000000000000
+      internalID: -2314162650106657691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_boobs_spread_chikubi_1_0: -577668184973324541
+      zaa_boobs_spread_chikubi_1_1: -1038346168790895635
+      zaa_boobs_spread_chikubi_1_10: -6399156045904274688
+      zaa_boobs_spread_chikubi_1_11: -1782495677280991540
+      zaa_boobs_spread_chikubi_1_12: -2564612256364367679
+      zaa_boobs_spread_chikubi_1_13: 982827134590306631
+      zaa_boobs_spread_chikubi_1_14: 7480670862930219854
+      zaa_boobs_spread_chikubi_1_15: 529942958881773913
+      zaa_boobs_spread_chikubi_1_16: -5878033285337004111
+      zaa_boobs_spread_chikubi_1_17: 4758798612755125096
+      zaa_boobs_spread_chikubi_1_18: -871471880684617235
+      zaa_boobs_spread_chikubi_1_19: -3277877134751258442
+      zaa_boobs_spread_chikubi_1_2: 3226557809720983450
+      zaa_boobs_spread_chikubi_1_20: -2314162650106657691
+      zaa_boobs_spread_chikubi_1_3: -1748185739286749141
+      zaa_boobs_spread_chikubi_1_4: -6926606996736455017
+      zaa_boobs_spread_chikubi_1_5: -2587275048454029335
+      zaa_boobs_spread_chikubi_1_6: 4225771439642901070
+      zaa_boobs_spread_chikubi_1_7: 7974404251646870815
+      zaa_boobs_spread_chikubi_1_8: -8488596688286167179
+      zaa_boobs_spread_chikubi_1_9: -6966689022782698031
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

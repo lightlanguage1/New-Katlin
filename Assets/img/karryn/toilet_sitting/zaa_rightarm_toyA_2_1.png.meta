@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: c318ba72fd8216542a43a7dfd199ffc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2791611080149681234
+    second: zaa_rightarm_toyA_2_1_0
+  - first:
+      213: -3533450299976441644
+    second: zaa_rightarm_toyA_2_1_1
+  - first:
+      213: 7569588297866852852
+    second: zaa_rightarm_toyA_2_1_2
+  - first:
+      213: 7094376968261785060
+    second: zaa_rightarm_toyA_2_1_3
+  - first:
+      213: -6183893471623143045
+    second: zaa_rightarm_toyA_2_1_4
+  - first:
+      213: -935154216729591097
+    second: zaa_rightarm_toyA_2_1_5
+  - first:
+      213: -4559294936447144429
+    second: zaa_rightarm_toyA_2_1_6
+  - first:
+      213: 278912463287699403
+    second: zaa_rightarm_toyA_2_1_7
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_rightarm_toyA_2_1_0
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 446
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254cd5f9c7bcdb620800000000000000
+      internalID: 2791611080149681234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_toyA_2_1_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 323
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d028665ca9a6fec0800000000000000
+      internalID: -3533450299976441644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_toyA_2_1_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 365
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9be4693749c0960800000000000000
+      internalID: 7569588297866852852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_toyA_2_1_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 334
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5d4f7d34a447260800000000000000
+      internalID: 7094376968261785060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_toyA_2_1_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 322
+        width: 33
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71ab07b6a56e2aa0800000000000000
+      internalID: -6183893471623143045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_toyA_2_1_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 290
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2cf9dc13aa503f0800000000000000
+      internalID: -935154216729591097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_toyA_2_1_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 240
+        width: 29
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ea4d659612ab0c0800000000000000
+      internalID: -4559294936447144429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_toyA_2_1_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 273
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc741b95865eed300800000000000000
+      internalID: 278912463287699403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_rightarm_toyA_2_1_0: 2791611080149681234
+      zaa_rightarm_toyA_2_1_1: -3533450299976441644
+      zaa_rightarm_toyA_2_1_2: 7569588297866852852
+      zaa_rightarm_toyA_2_1_3: 7094376968261785060
+      zaa_rightarm_toyA_2_1_4: -6183893471623143045
+      zaa_rightarm_toyA_2_1_5: -935154216729591097
+      zaa_rightarm_toyA_2_1_6: -4559294936447144429
+      zaa_rightarm_toyA_2_1_7: 278912463287699403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

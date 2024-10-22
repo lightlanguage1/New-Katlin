@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 702b80a2d527990469676ff1e822fc7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4490892658504187269
+    second: zaa_anaru_open_1_0
+  - first:
+      213: 5304146125729515501
+    second: zaa_anaru_open_1_1
+  - first:
+      213: 3560405335024739968
+    second: zaa_anaru_open_1_2
+  - first:
+      213: 1785628868297262467
+    second: zaa_anaru_open_1_3
+  - first:
+      213: 8651456843498357930
+    second: zaa_anaru_open_1_4
+  - first:
+      213: -1315668324769320795
+    second: zaa_anaru_open_1_5
+  - first:
+      213: 5187433100152721732
+    second: zaa_anaru_open_1_6
+  - first:
+      213: -712494697364663329
+    second: zaa_anaru_open_1_7
+  - first:
+      213: -1168803796557301269
+    second: zaa_anaru_open_1_8
+  - first:
+      213: -8459334578236058566
+    second: zaa_anaru_open_1_9
+  - first:
+      213: 8368877283867611868
+    second: zaa_anaru_open_1_10
+  - first:
+      213: -871203484022575190
+    second: zaa_anaru_open_1_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_anaru_open_1_0
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 428
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72c27dbbe42da1c0800000000000000
+      internalID: -4490892658504187269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_anaru_open_1_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 278
+        width: 122
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de74fdc7ccc1c9940800000000000000
+      internalID: 5304146125729515501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_anaru_open_1_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 290
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0862e82d9c9196130800000000000000
+      internalID: 3560405335024739968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_anaru_open_1_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 61
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3858a8bbef3d7c810800000000000000
+      internalID: 1785628868297262467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_anaru_open_1_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 85
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4875a6926201870800000000000000
+      internalID: 8651456843498357930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_anaru_open_1_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 86
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a034eb11aecdbde0800000000000000
+      internalID: -1315668324769320795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_anaru_open_1_6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 86
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441d4be9be67df740800000000000000
+      internalID: 5187433100152721732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_anaru_open_1_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 83
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3da3309d5bc16f0800000000000000
+      internalID: -712494697364663329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_anaru_open_1_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 62
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9f21eb32397cfe0800000000000000
+      internalID: -1168803796557301269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_anaru_open_1_9
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 51
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a349f0445086a9a80800000000000000
+      internalID: -8459334578236058566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_anaru_open_1_10
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 68
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2d3c9ac89342470800000000000000
+      internalID: 8368877283867611868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_anaru_open_1_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 53
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf60cf0c0dd8e3f0800000000000000
+      internalID: -871203484022575190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_anaru_open_1_0: -4490892658504187269
+      zaa_anaru_open_1_1: 5304146125729515501
+      zaa_anaru_open_1_10: 8368877283867611868
+      zaa_anaru_open_1_11: -871203484022575190
+      zaa_anaru_open_1_2: 3560405335024739968
+      zaa_anaru_open_1_3: 1785628868297262467
+      zaa_anaru_open_1_4: 8651456843498357930
+      zaa_anaru_open_1_5: -1315668324769320795
+      zaa_anaru_open_1_6: 5187433100152721732
+      zaa_anaru_open_1_7: -712494697364663329
+      zaa_anaru_open_1_8: -1168803796557301269
+      zaa_anaru_open_1_9: -8459334578236058566
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

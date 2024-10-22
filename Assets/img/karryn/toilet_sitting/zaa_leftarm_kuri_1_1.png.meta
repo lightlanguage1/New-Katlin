@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: f13649434749aa244951c0c9714d029f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3589335360515335381
+    second: zaa_leftarm_kuri_1_1_0
+  - first:
+      213: 5616408923540926155
+    second: zaa_leftarm_kuri_1_1_1
+  - first:
+      213: -2222192683298135545
+    second: zaa_leftarm_kuri_1_1_2
+  - first:
+      213: 7892522811980831708
+    second: zaa_leftarm_kuri_1_1_3
+  - first:
+      213: 6133320186527930296
+    second: zaa_leftarm_kuri_1_1_4
+  - first:
+      213: -6752638722508176186
+    second: zaa_leftarm_kuri_1_1_5
+  - first:
+      213: 6933492500406993401
+    second: zaa_leftarm_kuri_1_1_6
+  - first:
+      213: 8480430416362375753
+    second: zaa_leftarm_kuri_1_1_7
+  - first:
+      213: -1096370675902571416
+    second: zaa_leftarm_kuri_1_1_8
+  - first:
+      213: 7627503455692230384
+    second: zaa_leftarm_kuri_1_1_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_leftarm_kuri_1_1_0
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 556
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4e3474e71efc130800000000000000
+      internalID: 3589335360515335381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_kuri_1_1_1
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 377
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceadf0b82e71fd40800000000000000
+      internalID: 5616408923540926155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_kuri_1_1_2
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 460
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702ea89378f2921e0800000000000000
+      internalID: -2222192683298135545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_kuri_1_1_3
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 396
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbd8cd5eafd78d60800000000000000
+      internalID: 7892522811980831708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_kuri_1_1_4
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 409
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7dab3c63eed1550800000000000000
+      internalID: 6133320186527930296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_kuri_1_1_5
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 337
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c44a50ebdec942a0800000000000000
+      internalID: -6752638722508176186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_kuri_1_1_6
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 394
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f10893a1b6b83060800000000000000
+      internalID: 6933492500406993401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_kuri_1_1_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 358
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a82bd488a80b570800000000000000
+      internalID: 8480430416362375753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_kuri_1_1_8
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 354
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c1ca8dda8e8c0f0800000000000000
+      internalID: -1096370675902571416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_kuri_1_1_9
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 313
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe899f0bf55ad960800000000000000
+      internalID: 7627503455692230384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_leftarm_kuri_1_1_0: 3589335360515335381
+      zaa_leftarm_kuri_1_1_1: 5616408923540926155
+      zaa_leftarm_kuri_1_1_2: -2222192683298135545
+      zaa_leftarm_kuri_1_1_3: 7892522811980831708
+      zaa_leftarm_kuri_1_1_4: 6133320186527930296
+      zaa_leftarm_kuri_1_1_5: -6752638722508176186
+      zaa_leftarm_kuri_1_1_6: 6933492500406993401
+      zaa_leftarm_kuri_1_1_7: 8480430416362375753
+      zaa_leftarm_kuri_1_1_8: -1096370675902571416
+      zaa_leftarm_kuri_1_1_9: 7627503455692230384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

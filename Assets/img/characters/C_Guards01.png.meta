@@ -1,0 +1,2260 @@
+fileFormatVersion: 2
+guid: 80b287d7a672bc749a3c164bbc30337b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: C_Guards01_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 420
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0732a72676bac7e45973854874f86ed3
+      internalID: -682804319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 420
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7e9eda528cadb4a8f9e6e29d9698cd
+      internalID: -1490890307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 420
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b372a2a1ee92e49b15446ceda9a4aa
+      internalID: -849391570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 420
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6f51e43338a814881965b798897cce
+      internalID: 2025814628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 420
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8696f68f03a82f44bb0784e0757c9786
+      internalID: 796704144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 420
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e1b6dfcf2f64a4b8d823b3ac49ed3f
+      internalID: -484246266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 420
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34d140963f2da045b3045248b1d2286
+      internalID: -1065709256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 420
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52aed17f6214454cb5bc43a30a2231d
+      internalID: 1204923513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 420
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e55b62c8f28684a85c338c0c3a158c
+      internalID: -841023288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 420
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3124dd4dc18b9f1438ede4d62fff4338
+      internalID: 1330666126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_10
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 420
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90454021ab6cd64393fc1070cf39a54
+      internalID: 1273581620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_11
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 420
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b67b530c93933a4dad6842981d7d398
+      internalID: 889573381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 360
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f00cc52f9b2564eb63b6ece77be53f
+      internalID: 1622066911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 360
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da9b0152f26caf47a3c17f2c69ab115
+      internalID: -1409565096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 360
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181cf70e9a62b954c8ae7c6febe2a1f9
+      internalID: -152441018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 360
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8e60677e664aa47adf736c574d579c
+      internalID: 560351747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 360
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e549abf5218dea40847d14513f55df0
+      internalID: 2079555001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_17
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 360
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2438e57afa307d48b3b82e2d4fd6575
+      internalID: 1008246574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_18
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 360
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5551f05740d45bb4bae14d77148e6e21
+      internalID: -30553869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 360
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53155e0aa49ecd448acacc6731b1a18a
+      internalID: 949639352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_20
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 360
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f45d6ad34fe75843b453d3883cde111
+      internalID: 1910849767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 360
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02533cbe8f96fea4f99552a5519d9e8e
+      internalID: -18152146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_22
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 360
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396bb2d94c2762945926165264d81097
+      internalID: 654725340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_23
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 360
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bbd90a40f50e04885f7b0ef773a1c5
+      internalID: 600437687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 300
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bdbf6086b892f408298b31e0d4f16d
+      internalID: -563893103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 300
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7489cba68935a46903976010298289
+      internalID: 1119436974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 300
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32465fc640c6e00408b7a6a2e3761078
+      internalID: -1334078843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_27
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 300
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525701821fbd0bb4e81e8e171c1b2558
+      internalID: 355205255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 300
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a7405ef33d02c468b76310b60b8194
+      internalID: 1491290719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 300
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dfd21480b92b04785beba9eaa69894
+      internalID: 1217385528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 300
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5322bef4b74c44ab9b8748e3d8d39a
+      internalID: 202669572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 300
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe39885437cdbb4f923ca91c8d4e127
+      internalID: -1672359089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_32
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 300
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7629cb6edd72af9429d4ccb4392b40cc
+      internalID: -1012876769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_33
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 300
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b40119beb122f40bb936708d09b2e8
+      internalID: -871267557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_34
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 300
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124f5c5a643c7154daae59c9268f57d4
+      internalID: 822211896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_35
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 300
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f9131148d495041879b135fdc427d8
+      internalID: -549282179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 240
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04195afa94b7fe542bdd42a5227cc624
+      internalID: -736965575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 240
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f32956c8469ef4ba9910f6db21e570
+      internalID: -1001025372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 240
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61899a55cf0f310458bdfef753f2099f
+      internalID: -562264762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 240
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8a84c496d1b694f8adf7f3fe24e483
+      internalID: 1087574093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_40
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 240
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38217341bdbb9644687454339a3d9228
+      internalID: -292625813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_41
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 240
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601c82ed2635b2747818bcc6d2f6728d
+      internalID: 393984722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_42
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 240
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224687c787cdfa141b434edfcc764e33
+      internalID: -1091617245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_43
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 240
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cf2ed0e21ff264a98de2ab841a849b
+      internalID: -1338050095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 240
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081c92a95774d6e4db2cdf346e23c078
+      internalID: 378567738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_45
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 240
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7603bc90b121d95429488d338b3ce480
+      internalID: -1316469070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_46
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 240
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6af1237a38d0cc49874fd2f388a6c7b
+      internalID: -2056168827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_47
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 240
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605e2e90d45b33e4bbaad2a6b7cbe4b0
+      internalID: 46495767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 180
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7760ab1ae23eab4b9f00e6d5e764fec
+      internalID: -207325661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 180
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f210573fed52e748b304cf7120a82eb
+      internalID: 715200896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 180
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64695aa3cf52bdc40a0081d10e32ad78
+      internalID: 1733343362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_51
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 180
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d39bdd5d91555488449c3d4454afc0
+      internalID: -803847394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_52
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 180
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f680e2ae1ea0e84393743f1b377f02c
+      internalID: 934817825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_53
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 180
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e801eda4514ac94c95dfec4adb08b56
+      internalID: 2016923544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_54
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 180
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c69a10ffe586c440abf20b31f527e9a
+      internalID: 1044662550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_55
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 180
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c64899794b1f50409baf4869449ca92
+      internalID: 2083527751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_56
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 180
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78488af233c21c94f97cf2dbb2bcfe90
+      internalID: 1602109760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_57
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 180
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e2754fcd5ac8a4b8c04933a724a31b
+      internalID: -1524447085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_58
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 180
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b915dd56c5f017438ba5153506e5a76
+      internalID: 1940331552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_59
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 180
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04129c7a76000944f8b1b436ab3a4424
+      internalID: -2127362338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 120
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6e2a62040fa03469c78d42bf79e540
+      internalID: 607458073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_61
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 120
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc966e13dbed6144a91155cd6eb3840e
+      internalID: -131374944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 120
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bd67a8df39f2b45b8acb6d57956050
+      internalID: 963211271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_63
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 120
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe21ef68eb43fb143ba000c743bf3666
+      internalID: 837755894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_64
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 120
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac09d8bb1a12f6d4c9889d725c3653c1
+      internalID: 1942139802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_65
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 120
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea6d2e0eb36a4d46ae09bbce80a6c51
+      internalID: -375240389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_66
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 120
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b77c59c29cc7e4fb3f791b24921e07
+      internalID: 775886203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_67
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 120
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f233782a7ac0990489b021403b77c45a
+      internalID: 218786639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_68
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 120
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc0a082a353cc8449db98d75a078d5e
+      internalID: 143114988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_69
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 120
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d643e1e421aa96d4abc12fdc96a2af14
+      internalID: -1151689016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_70
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 120
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019358563f008674cb15d0bb75317812
+      internalID: 333076584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_71
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 120
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24178488a4156fa45865b046335657f1
+      internalID: 1229013730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 60
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d007efbc1238b02448c6f9f41fcca36f
+      internalID: 627077133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_73
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 60
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caa15c6415f2204bba517f846d16c56
+      internalID: -636364293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_74
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 60
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230c4aa6784fceb45b4c8ed670b02b8b
+      internalID: -149995029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_75
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 60
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1d3f9469bb7734dac377b19010b56c
+      internalID: 1179243962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_76
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 60
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e274d57ff2b91dd489fa8295799e664e
+      internalID: -328988658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_77
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 60
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e64ca95591a3a44a449c6b0552d3aa
+      internalID: 85316429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_78
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 60
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e0ed98721ebdc4e9a0a699776a6ff2
+      internalID: 299033815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_79
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 60
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860e3ab820f1bfa43bd6dd6fd4014a3e
+      internalID: 293785712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_80
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 60
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a0cfb54f9677340a4661fa4c39fb38
+      internalID: 2129262180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_81
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 60
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712f5f8cc9a75e84c994738d15b4bbad
+      internalID: 1503643962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_82
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 60
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318008f4ae2097f4da0d0adaecf23194
+      internalID: 476995850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_83
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 60
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7127135610b0e014db4d962147fee786
+      internalID: -1679199641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c1a69c3bc044d4599481f121052032
+      internalID: 1990957994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_85
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec73f907087e338438d53dc791b2dad8
+      internalID: 1020595264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_86
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567896b939c649a42978637b441e6977
+      internalID: 881341820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_87
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a52edba1a4e75f48b446a75daeb5b6f
+      internalID: -353186222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_88
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f3d8314bd66de4587b4259bfe77387
+      internalID: 493897521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_89
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3317f93d2ad5c6046801329a1ef50135
+      internalID: -75372118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_90
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d30554b603e0a419082133fdee26a4
+      internalID: 1893179544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_91
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde0f2747dcdc964e96c17aaa071cbba
+      internalID: 33968552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_92
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44162f4f06d15434fbf475dd0e684890
+      internalID: -2091759585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_93
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 0
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8b694b6e0f9f449b19ce93c05d1e1d
+      internalID: -502281290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_94
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf5fa664f319dd479d0c2b20ff79fc9
+      internalID: -459457924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Guards01_95
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 0
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fd1c313d8e62e42abf8356ba7eae1a
+      internalID: 26330543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      C_Guards01_0: -682804319
+      C_Guards01_1: -1490890307
+      C_Guards01_10: 1273581620
+      C_Guards01_11: 889573381
+      C_Guards01_12: 1622066911
+      C_Guards01_13: -1409565096
+      C_Guards01_14: -152441018
+      C_Guards01_15: 560351747
+      C_Guards01_16: 2079555001
+      C_Guards01_17: 1008246574
+      C_Guards01_18: -30553869
+      C_Guards01_19: 949639352
+      C_Guards01_2: -849391570
+      C_Guards01_20: 1910849767
+      C_Guards01_21: -18152146
+      C_Guards01_22: 654725340
+      C_Guards01_23: 600437687
+      C_Guards01_24: -563893103
+      C_Guards01_25: 1119436974
+      C_Guards01_26: -1334078843
+      C_Guards01_27: 355205255
+      C_Guards01_28: 1491290719
+      C_Guards01_29: 1217385528
+      C_Guards01_3: 2025814628
+      C_Guards01_30: 202669572
+      C_Guards01_31: -1672359089
+      C_Guards01_32: -1012876769
+      C_Guards01_33: -871267557
+      C_Guards01_34: 822211896
+      C_Guards01_35: -549282179
+      C_Guards01_36: -736965575
+      C_Guards01_37: -1001025372
+      C_Guards01_38: -562264762
+      C_Guards01_39: 1087574093
+      C_Guards01_4: 796704144
+      C_Guards01_40: -292625813
+      C_Guards01_41: 393984722
+      C_Guards01_42: -1091617245
+      C_Guards01_43: -1338050095
+      C_Guards01_44: 378567738
+      C_Guards01_45: -1316469070
+      C_Guards01_46: -2056168827
+      C_Guards01_47: 46495767
+      C_Guards01_48: -207325661
+      C_Guards01_49: 715200896
+      C_Guards01_5: -484246266
+      C_Guards01_50: 1733343362
+      C_Guards01_51: -803847394
+      C_Guards01_52: 934817825
+      C_Guards01_53: 2016923544
+      C_Guards01_54: 1044662550
+      C_Guards01_55: 2083527751
+      C_Guards01_56: 1602109760
+      C_Guards01_57: -1524447085
+      C_Guards01_58: 1940331552
+      C_Guards01_59: -2127362338
+      C_Guards01_6: -1065709256
+      C_Guards01_60: 607458073
+      C_Guards01_61: -131374944
+      C_Guards01_62: 963211271
+      C_Guards01_63: 837755894
+      C_Guards01_64: 1942139802
+      C_Guards01_65: -375240389
+      C_Guards01_66: 775886203
+      C_Guards01_67: 218786639
+      C_Guards01_68: 143114988
+      C_Guards01_69: -1151689016
+      C_Guards01_7: 1204923513
+      C_Guards01_70: 333076584
+      C_Guards01_71: 1229013730
+      C_Guards01_72: 627077133
+      C_Guards01_73: -636364293
+      C_Guards01_74: -149995029
+      C_Guards01_75: 1179243962
+      C_Guards01_76: -328988658
+      C_Guards01_77: 85316429
+      C_Guards01_78: 299033815
+      C_Guards01_79: 293785712
+      C_Guards01_8: -841023288
+      C_Guards01_80: 2129262180
+      C_Guards01_81: 1503643962
+      C_Guards01_82: 476995850
+      C_Guards01_83: -1679199641
+      C_Guards01_84: 1990957994
+      C_Guards01_85: 1020595264
+      C_Guards01_86: 881341820
+      C_Guards01_87: -353186222
+      C_Guards01_88: 493897521
+      C_Guards01_89: -75372118
+      C_Guards01_9: 1330666126
+      C_Guards01_90: 1893179544
+      C_Guards01_91: 33968552
+      C_Guards01_92: -2091759585
+      C_Guards01_93: -502281290
+      C_Guards01_94: -459457924
+      C_Guards01_95: 26330543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

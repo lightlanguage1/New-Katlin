@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 681c22daf2d78c7458a88c163e4b381e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5527154157158816586
+    second: zaa_boobs_empty_1_0
+  - first:
+      213: 7603388596466159593
+    second: zaa_boobs_empty_1_1
+  - first:
+      213: -9020914749794275666
+    second: zaa_boobs_empty_1_2
+  - first:
+      213: 5038598508714609646
+    second: zaa_boobs_empty_1_3
+  - first:
+      213: -8959792032090063987
+    second: zaa_boobs_empty_1_4
+  - first:
+      213: -5820613571170051715
+    second: zaa_boobs_empty_1_5
+  - first:
+      213: -2659469548001623553
+    second: zaa_boobs_empty_1_6
+  - first:
+      213: -3572170911083675994
+    second: zaa_boobs_empty_1_7
+  - first:
+      213: 7193479106865938829
+    second: zaa_boobs_empty_1_8
+  - first:
+      213: 7076007091474311075
+    second: zaa_boobs_empty_1_9
+  - first:
+      213: -1171297488723257994
+    second: zaa_boobs_empty_1_10
+  - first:
+      213: 7435187572646103517
+    second: zaa_boobs_empty_1_11
+  - first:
+      213: -5574167649348783486
+    second: zaa_boobs_empty_1_12
+  - first:
+      213: -3463940195475959996
+    second: zaa_boobs_empty_1_13
+  - first:
+      213: -1294720960822422752
+    second: zaa_boobs_empty_1_14
+  - first:
+      213: -685478753684926777
+    second: zaa_boobs_empty_1_15
+  - first:
+      213: 277051228567345251
+    second: zaa_boobs_empty_1_16
+  - first:
+      213: -4346463230314019587
+    second: zaa_boobs_empty_1_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_0
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 602
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4a9b3049a9b43b0800000000000000
+      internalID: -5527154157158816586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_1
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 628
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef0f9dd4a9a48960800000000000000
+      internalID: 7603388596466159593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 620
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae2e6574d54fc280800000000000000
+      internalID: -9020914749794275666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_3
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 602
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb4fb5e5a2bce540800000000000000
+      internalID: 5038598508714609646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_4
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 622
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b75e92e9c68a380800000000000000
+      internalID: -8959792032090063987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_5
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 620
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d795793cbc6093fa0800000000000000
+      internalID: -5820613571170051715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_6
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 608
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1056c598aa71bd0800000000000000
+      internalID: -2659469548001623553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_7
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 587
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aebfd78b791d6ec0800000000000000
+      internalID: -3572170911083675994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 519
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8140ff822f54d360800000000000000
+      internalID: 7193479106865938829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_9
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 501
+        width: 25
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7a87b95f6033260800000000000000
+      internalID: 7076007091474311075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_10
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 580
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675d75ac327bebfe0800000000000000
+      internalID: -1171297488723257994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_11
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 564
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd948f934b71f2760800000000000000
+      internalID: 7435187572646103517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_12
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 583
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282771e5e0494a2b0800000000000000
+      internalID: -5574167649348783486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_13
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 565
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f4575bebc9defc0800000000000000
+      internalID: -3463940195475959996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_14
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 520
+        width: 29
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0235de6552a380ee0800000000000000
+      internalID: -1294720960822422752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_15
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 513
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce488194b0bc76f0800000000000000
+      internalID: -685478753684926777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_16
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 535
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368975fdf9848d300800000000000000
+      internalID: 277051228567345251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_empty_1_17
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 542
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df406d778b24ea3c0800000000000000
+      internalID: -4346463230314019587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_boobs_empty_1_0: -5527154157158816586
+      zaa_boobs_empty_1_1: 7603388596466159593
+      zaa_boobs_empty_1_10: -1171297488723257994
+      zaa_boobs_empty_1_11: 7435187572646103517
+      zaa_boobs_empty_1_12: -5574167649348783486
+      zaa_boobs_empty_1_13: -3463940195475959996
+      zaa_boobs_empty_1_14: -1294720960822422752
+      zaa_boobs_empty_1_15: -685478753684926777
+      zaa_boobs_empty_1_16: 277051228567345251
+      zaa_boobs_empty_1_17: -4346463230314019587
+      zaa_boobs_empty_1_2: -9020914749794275666
+      zaa_boobs_empty_1_3: 5038598508714609646
+      zaa_boobs_empty_1_4: -8959792032090063987
+      zaa_boobs_empty_1_5: -5820613571170051715
+      zaa_boobs_empty_1_6: -2659469548001623553
+      zaa_boobs_empty_1_7: -3572170911083675994
+      zaa_boobs_empty_1_8: 7193479106865938829
+      zaa_boobs_empty_1_9: 7076007091474311075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 0a9ab028c303a574c80e9819f937ae4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3313529603160044260
+    second: zaa_leftleg_1_0
+  - first:
+      213: 7497447818465003177
+    second: zaa_leftleg_1_1
+  - first:
+      213: -3042577454298873336
+    second: zaa_leftleg_1_2
+  - first:
+      213: -1001404578809430600
+    second: zaa_leftleg_1_3
+  - first:
+      213: -2358718375533119736
+    second: zaa_leftleg_1_4
+  - first:
+      213: -7849263759585243166
+    second: zaa_leftleg_1_5
+  - first:
+      213: 6446402278305027637
+    second: zaa_leftleg_1_6
+  - first:
+      213: 3619516572024842300
+    second: zaa_leftleg_1_7
+  - first:
+      213: -1223188126986466889
+    second: zaa_leftleg_1_8
+  - first:
+      213: 4766329176299507839
+    second: zaa_leftleg_1_9
+  - first:
+      213: 1433037095231095459
+    second: zaa_leftleg_1_10
+  - first:
+      213: 4628017268549238582
+    second: zaa_leftleg_1_11
+  - first:
+      213: -7155393458853135612
+    second: zaa_leftleg_1_12
+  - first:
+      213: -4379718359934069906
+    second: zaa_leftleg_1_13
+  - first:
+      213: 4283694371974187669
+    second: zaa_leftleg_1_14
+  - first:
+      213: 2310510819344415089
+    second: zaa_leftleg_1_15
+  - first:
+      213: -3618474025651749289
+    second: zaa_leftleg_1_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_leftleg_1_0
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 444
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e278154e950cfd20800000000000000
+      internalID: 3313529603160044260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_1
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 188
+        width: 114
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a642a551194c0860800000000000000
+      internalID: 7497447818465003177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_2
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 343
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80247e2fce796c5d0800000000000000
+      internalID: -3042577454298873336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 130
+        width: 241
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd3d9b57db4a12f0800000000000000
+      internalID: -1001404578809430600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_4
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 308
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807792d6226244fd0800000000000000
+      internalID: -2358718375533119736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_5
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 300
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef0395a230d11390800000000000000
+      internalID: -7849263759585243166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_6
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 304
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536d3a5b7b8367950800000000000000
+      internalID: 6446402278305027637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_7
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 281
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c382e2e252b1b3230800000000000000
+      internalID: 3619516572024842300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_8
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 270
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b90f7511ec560fe0800000000000000
+      internalID: -1223188126986466889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_9
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 238
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7099ebf127652240800000000000000
+      internalID: 4766329176299507839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_10
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 236
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2053345ab23e310800000000000000
+      internalID: 1433037095231095459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_11
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 123
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f304a7f250a3040800000000000000
+      internalID: 4628017268549238582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_12
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 199
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bb7e06f8fe2bc90800000000000000
+      internalID: -7155393458853135612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_13
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 197
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e639fdb3b5d1833c0800000000000000
+      internalID: -4379718359934069906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_14
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 133
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a8cd7d55db27b30800000000000000
+      internalID: 4283694371974187669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 171
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17978bc3955901020800000000000000
+      internalID: 2310510819344415089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftleg_1_16
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 172
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ebc009b0998cdc0800000000000000
+      internalID: -3618474025651749289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_leftleg_1_0: 3313529603160044260
+      zaa_leftleg_1_1: 7497447818465003177
+      zaa_leftleg_1_10: 1433037095231095459
+      zaa_leftleg_1_11: 4628017268549238582
+      zaa_leftleg_1_12: -7155393458853135612
+      zaa_leftleg_1_13: -4379718359934069906
+      zaa_leftleg_1_14: 4283694371974187669
+      zaa_leftleg_1_15: 2310510819344415089
+      zaa_leftleg_1_16: -3618474025651749289
+      zaa_leftleg_1_2: -3042577454298873336
+      zaa_leftleg_1_3: -1001404578809430600
+      zaa_leftleg_1_4: -2358718375533119736
+      zaa_leftleg_1_5: -7849263759585243166
+      zaa_leftleg_1_6: 6446402278305027637
+      zaa_leftleg_1_7: 3619516572024842300
+      zaa_leftleg_1_8: -1223188126986466889
+      zaa_leftleg_1_9: 4766329176299507839
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

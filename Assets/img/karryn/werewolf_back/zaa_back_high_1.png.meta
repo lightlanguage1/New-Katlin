@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 99be2d611b907724287b8f5cc0ad1a3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7438457366065823566
+    second: zaa_back_high_1_0
+  - first:
+      213: -6719817633364581045
+    second: zaa_back_high_1_1
+  - first:
+      213: -7084495130192222126
+    second: zaa_back_high_1_2
+  - first:
+      213: -668926400229802576
+    second: zaa_back_high_1_3
+  - first:
+      213: 7827395478806218700
+    second: zaa_back_high_1_4
+  - first:
+      213: -9094966726266616166
+    second: zaa_back_high_1_5
+  - first:
+      213: 3618005397664938244
+    second: zaa_back_high_1_6
+  - first:
+      213: -3407201981883884535
+    second: zaa_back_high_1_7
+  - first:
+      213: 7185106046666998024
+    second: zaa_back_high_1_8
+  - first:
+      213: -3162573864908506469
+    second: zaa_back_high_1_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_back_high_1_0
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 511
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fbd355095ba3760800000000000000
+      internalID: 7438457366065823566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_back_high_1_1
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 539
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45e5ef27796eb2a0800000000000000
+      internalID: -6719817633364581045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_back_high_1_2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 541
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25868efd631dead90800000000000000
+      internalID: -7084495130192222126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_back_high_1_3
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 453
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdfb6dabfe77b6f0800000000000000
+      internalID: -668926400229802576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_back_high_1_4
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 454
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc74eb677be70ac60800000000000000
+      internalID: 7827395478806218700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_back_high_1_5
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 464
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9681ec13ff28c180800000000000000
+      internalID: -9094966726266616166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_back_high_1_6
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 444
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409b34b7dbcb53230800000000000000
+      internalID: 3618005397664938244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_back_high_1_7
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 430
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cddcf79df27b0d0800000000000000
+      internalID: -3407201981883884535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_back_high_1_8
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 368
+        width: 25
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801091191ef96b360800000000000000
+      internalID: 7185106046666998024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_back_high_1_9
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 367
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ab13e63d74c14d0800000000000000
+      internalID: -3162573864908506469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_back_high_1_0: 7438457366065823566
+      zaa_back_high_1_1: -6719817633364581045
+      zaa_back_high_1_2: -7084495130192222126
+      zaa_back_high_1_3: -668926400229802576
+      zaa_back_high_1_4: 7827395478806218700
+      zaa_back_high_1_5: -9094966726266616166
+      zaa_back_high_1_6: 3618005397664938244
+      zaa_back_high_1_7: -3407201981883884535
+      zaa_back_high_1_8: 7185106046666998024
+      zaa_back_high_1_9: -3162573864908506469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

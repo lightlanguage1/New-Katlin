@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8470ea4cec079d344a68fa751f06428d, type: 3}
+  m_Name: SoundList_SO
+  m_EditorClassIdentifier: 
+  soundDetailsList:
+  - soundName: 0
+    soundClip: {fileID: 0}
+    soundPitchMin: 0
+    soundPitchMax: 0
+    volumeSize: 0
+    playDuration: 0
+    delayBetweenPlays: 0
+  - soundName: 1
+    soundClip: {fileID: 8300000, guid: 1c4a35baeaee3a94789ff1d1554a20b1, type: 3}
+    soundPitchMin: 1
+    soundPitchMax: 1
+    volumeSize: 0.55
+    playDuration: 0
+    delayBetweenPlays: 0
+  - soundName: 2
+    soundClip: {fileID: 8300000, guid: 2903661d825628e459663bd1bce678cb, type: 3}
+    soundPitchMin: 1
+    soundPitchMax: 1
+    volumeSize: 0.35
+    playDuration: 0
+    delayBetweenPlays: 0
+  - soundName: 3
+    soundClip: {fileID: 8300000, guid: bb05b6115a7b43448bf5c1e653b11077, type: 3}
+    soundPitchMin: 1
+    soundPitchMax: 1
+    volumeSize: 0.45
+    playDuration: 0
+    delayBetweenPlays: 0
+  - soundName: 6
+    soundClip: {fileID: 8300000, guid: 8d01a5d7cceb90a4cb96a8e473f0663a, type: 3}
+    soundPitchMin: 0.1
+    soundPitchMax: 0.1
+    volumeSize: 0.508
+    playDuration: 0
+    delayBetweenPlays: 0
+  - soundName: 7
+    soundClip: {fileID: 8300000, guid: 541cfd8f4febb33419e4065fe2b6ca9a, type: 3}
+    soundPitchMin: 1
+    soundPitchMax: 1
+    volumeSize: 0.8
+    playDuration: 0
+    delayBetweenPlays: 0
+  - soundName: 8
+    soundClip: {fileID: 8300000, guid: 11aff77736bc60a4197784c911198ff2, type: 3}
+    soundPitchMin: 1
+    soundPitchMax: 1
+    volumeSize: 0.8
+    playDuration: 0
+    delayBetweenPlays: 0
+  - soundName: 0
+    soundClip: {fileID: 0}
+    soundPitchMin: 0
+    soundPitchMax: 0
+    volumeSize: 0
+    playDuration: 0
+    delayBetweenPlays: 0
+  - soundName: 0
+    soundClip: {fileID: 0}
+    soundPitchMin: 0
+    soundPitchMax: 0
+    volumeSize: 0
+    playDuration: 0
+    delayBetweenPlays: 0

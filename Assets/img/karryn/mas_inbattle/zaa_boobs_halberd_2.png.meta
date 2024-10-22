@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: dac1e6cd194111942a6890774acb7818
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3109561146414433129
+    second: zaa_boobs_halberd_2_0
+  - first:
+      213: 7265771715898263150
+    second: zaa_boobs_halberd_2_1
+  - first:
+      213: 5541333069591260435
+    second: zaa_boobs_halberd_2_2
+  - first:
+      213: -3739822697863631691
+    second: zaa_boobs_halberd_2_3
+  - first:
+      213: 5675822431803233622
+    second: zaa_boobs_halberd_2_4
+  - first:
+      213: 5685982623572697352
+    second: zaa_boobs_halberd_2_5
+  - first:
+      213: 6397711882485736244
+    second: zaa_boobs_halberd_2_6
+  - first:
+      213: -4859882726400815683
+    second: zaa_boobs_halberd_2_7
+  - first:
+      213: 2396534284539170362
+    second: zaa_boobs_halberd_2_8
+  - first:
+      213: -863591862374109001
+    second: zaa_boobs_halberd_2_9
+  - first:
+      213: 8024731631178210099
+    second: zaa_boobs_halberd_2_10
+  - first:
+      213: 5330149187832551886
+    second: zaa_boobs_halberd_2_11
+  - first:
+      213: -513877346580432485
+    second: zaa_boobs_halberd_2_12
+  - first:
+      213: 3116778566216280587
+    second: zaa_boobs_halberd_2_13
+  - first:
+      213: 4474335720753609981
+    second: zaa_boobs_halberd_2_14
+  - first:
+      213: 8951404441918847249
+    second: zaa_boobs_halberd_2_15
+  - first:
+      213: 8536427626467877786
+    second: zaa_boobs_halberd_2_16
+  - first:
+      213: -4836227640943870242
+    second: zaa_boobs_halberd_2_17
+  - first:
+      213: -654383912276144441
+    second: zaa_boobs_halberd_2_18
+  - first:
+      213: 3363663112837263060
+    second: zaa_boobs_halberd_2_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_0
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 493
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c7c9ccc9e98d4d0800000000000000
+      internalID: -3109561146414433129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_1
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 521
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66423141e435d460800000000000000
+      internalID: 7265771715898263150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_2
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 459
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dac1b4115c6ec40800000000000000
+      internalID: 5541333069591260435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_3
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 509
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc25ea121b791cc0800000000000000
+      internalID: -3739822697863631691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 451
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65553df0e6294ce40800000000000000
+      internalID: 5675822431803233622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 430
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801281d021ba8ee40800000000000000
+      internalID: 5685982623572697352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_6
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 445
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433abd28f0d39c850800000000000000
+      internalID: 6397711882485736244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_7
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 444
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd82dab86a3e8cb0800000000000000
+      internalID: -4859882726400815683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 431
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e80020c33324120800000000000000
+      internalID: 2396534284539170362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_9
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 435
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0f544d6c7e304f0800000000000000
+      internalID: -863591862374109001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_10
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 433
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bd736d6e29d5f60800000000000000
+      internalID: 8024731631178210099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_11
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 351
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9989c227e78f940800000000000000
+      internalID: 5330149187832551886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_12
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 404
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99f3f2a6475ed8f0800000000000000
+      internalID: -513877346580432485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_13
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 359
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a6fd2b795014b20800000000000000
+      internalID: 3116778566216280587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_14
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 351
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc3c59c1a8081e30800000000000000
+      internalID: 4474335720753609981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_15
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 346
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1193d61d9e6c93c70800000000000000
+      internalID: 8951404441918847249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_16
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 371
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93e276c2bb777670800000000000000
+      internalID: 8536427626467877786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_17
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 351
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede7d90859442ecb0800000000000000
+      internalID: -4836227640943870242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_18
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 370
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cecc028c492be6f0800000000000000
+      internalID: -654383912276144441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_halberd_2_19
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 348
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deefb897c12eae20800000000000000
+      internalID: 3363663112837263060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_boobs_halberd_2_0: -3109561146414433129
+      zaa_boobs_halberd_2_1: 7265771715898263150
+      zaa_boobs_halberd_2_10: 8024731631178210099
+      zaa_boobs_halberd_2_11: 5330149187832551886
+      zaa_boobs_halberd_2_12: -513877346580432485
+      zaa_boobs_halberd_2_13: 3116778566216280587
+      zaa_boobs_halberd_2_14: 4474335720753609981
+      zaa_boobs_halberd_2_15: 8951404441918847249
+      zaa_boobs_halberd_2_16: 8536427626467877786
+      zaa_boobs_halberd_2_17: -4836227640943870242
+      zaa_boobs_halberd_2_18: -654383912276144441
+      zaa_boobs_halberd_2_19: 3363663112837263060
+      zaa_boobs_halberd_2_2: 5541333069591260435
+      zaa_boobs_halberd_2_3: -3739822697863631691
+      zaa_boobs_halberd_2_4: 5675822431803233622
+      zaa_boobs_halberd_2_5: 5685982623572697352
+      zaa_boobs_halberd_2_6: 6397711882485736244
+      zaa_boobs_halberd_2_7: -4859882726400815683
+      zaa_boobs_halberd_2_8: 2396534284539170362
+      zaa_boobs_halberd_2_9: -863591862374109001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

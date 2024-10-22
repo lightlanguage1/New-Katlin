@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: c9db93ec10b533f4389ae1aa16dc47a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1978974981481686423
+    second: zaa_glory_righthole_b_1_0
+  - first:
+      213: 6164846555154056005
+    second: zaa_glory_righthole_b_1_1
+  - first:
+      213: -5491269423836226944
+    second: zaa_glory_righthole_b_1_2
+  - first:
+      213: -3223262375737369504
+    second: zaa_glory_righthole_b_1_3
+  - first:
+      213: 7735828644722292767
+    second: zaa_glory_righthole_b_1_4
+  - first:
+      213: 6756123405456609727
+    second: zaa_glory_righthole_b_1_5
+  - first:
+      213: 5224381547526830007
+    second: zaa_glory_righthole_b_1_6
+  - first:
+      213: -5061390491006561289
+    second: zaa_glory_righthole_b_1_7
+  - first:
+      213: -3691433180988939097
+    second: zaa_glory_righthole_b_1_8
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_glory_righthole_b_1_0
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 466
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a16694db44984e0800000000000000
+      internalID: -1978974981481686423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_righthole_b_1_1
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 462
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5438fb6774fed8550800000000000000
+      internalID: 6164846555154056005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_righthole_b_1_2
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 450
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a17429d871bc3b0800000000000000
+      internalID: -5491269423836226944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_righthole_b_1_3
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 351
+        width: 79
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cda4462fba443d0800000000000000
+      internalID: -3223262375737369504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_righthole_b_1_4
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 436
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18b6fb8a2f2b5b60800000000000000
+      internalID: 7735828644722292767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_righthole_b_1_5
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 452
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb191f8117292cd50800000000000000
+      internalID: 6756123405456609727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_righthole_b_1_6
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 402
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b73177665bb08840800000000000000
+      internalID: 5224381547526830007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_righthole_b_1_7
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 365
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f393023a2452c9b0800000000000000
+      internalID: -5061390491006561289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_righthole_b_1_8
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 347
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a46017741565ccc0800000000000000
+      internalID: -3691433180988939097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_glory_righthole_b_1_0: -1978974981481686423
+      zaa_glory_righthole_b_1_1: 6164846555154056005
+      zaa_glory_righthole_b_1_2: -5491269423836226944
+      zaa_glory_righthole_b_1_3: -3223262375737369504
+      zaa_glory_righthole_b_1_4: 7735828644722292767
+      zaa_glory_righthole_b_1_5: 6756123405456609727
+      zaa_glory_righthole_b_1_6: 5224381547526830007
+      zaa_glory_righthole_b_1_7: -5061390491006561289
+      zaa_glory_righthole_b_1_8: -3691433180988939097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

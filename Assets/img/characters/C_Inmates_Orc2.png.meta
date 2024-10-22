@@ -1,0 +1,2260 @@
+fileFormatVersion: 2
+guid: bcd880ba197c6e44691dd36c0056ea3a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 671
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef279e554e6c08499219ae523c8a60b
+      internalID: 667554576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 673
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5e7fe6023a10e4bb4d9be836f3beea
+      internalID: -577673780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 671
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cac25eb5caf0b4a8327cbdae93028c
+      internalID: 1536208105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 671
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8203e0ae240d7459777b29a5b9849d
+      internalID: -898257773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 673
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a7b3e9fbbd5c64f9132fac521a9f63
+      internalID: -1774206508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 671
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d5ed172102f21429e31c02c2e9fc31
+      internalID: -37644446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_6
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 671
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173f786d3f0288a48ab6582ac5ef1db9
+      internalID: -785213414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_7
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 673
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a670414a36ca514fb514039af1fd034
+      internalID: 1285390420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_8
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 671
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800a96c6a09d7eb40b16e775241e2c89
+      internalID: -519362944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_9
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 671
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc0753b4e624674ca1cea3a51761ca9
+      internalID: 817136155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_10
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 673
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c774545d31fb44ad496c171886f6a
+      internalID: -1991607658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_11
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 671
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908e90495448a584da35dd8308ea850d
+      internalID: -1145055047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 576
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de590cfb2b03bf4693d46f3e066921a
+      internalID: 1075418576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 575
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef74a232e0b052f4caacd1e00f64b63b
+      internalID: -335618588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 576
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07244fb720d13a74b96afa84c2df9070
+      internalID: -612803087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 576
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07107472f1ae5834b8453df0095043af
+      internalID: -1234160808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 576
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19e2797e704c144bb8e777266ffe7cb
+      internalID: 938005112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 576
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ca1b1f07a837446ae08a07e2e6a7ce
+      internalID: 1737203280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_18
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 576
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9892b296ea02b8c49865d96a68a11f3f
+      internalID: 1690727064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_19
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 576
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb6d647b0de9974a9157e4adbd90c11
+      internalID: 2018554976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_20
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 576
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0a1aa764d13964e945e705fc307177
+      internalID: -1442360463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_21
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 576
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c35b0d2862c1d3499d522ba00878549
+      internalID: 1078878812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_22
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 576
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc720b5e3642eb4eb37e5b21c683480
+      internalID: 547340470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_23
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 576
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565ee2d15060eac44b841dd517881f4b
+      internalID: 1215792145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 480
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd608341698a9949a52b72c2eab7546
+      internalID: -495970217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 480
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9b71f99b1716948b2ce459478c19f7
+      internalID: -1554264831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 480
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f30e0260bc3764181f4e647c4f65a1
+      internalID: -1570547919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_27
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 480
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb53eaa0515ceb6488ce4f731b2869b7
+      internalID: 723018399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 480
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bbd7c5eba7f07419ab44a67414540d
+      internalID: 1973530882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_29
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 480
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3d2da67d727b84fad6e8b030a3f5f0
+      internalID: 1217989330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_30
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 480
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dfd70ea8ec1dc4996264b969c2dddf
+      internalID: 334666128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_31
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 480
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fa01ca585785e4891054c410657434
+      internalID: 2022383832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_32
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 480
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bce28199094e44fafb0fdf72d65caa
+      internalID: 16828093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_33
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 480
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3aa0c614e602e48b68157e23cbf14f
+      internalID: 1902379594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_34
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 480
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a7382849018f42a963e70f8d7ecca
+      internalID: 930428758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_35
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 480
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b33d41769d6ef548a1e23b50c39ae04
+      internalID: -589341344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 384
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df4aaed96d53914896e97e7eae37c51
+      internalID: 1163271528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 384
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8299f2740e271584882a9b67601ecf0b
+      internalID: 110481478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 384
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018035794c8ccd14887cbc4bb8d9f338
+      internalID: 1544176791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 384
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9394c59a9fab8414aa936f1b3ce696c9
+      internalID: -733199539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_40
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 385
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d7fb4cf3b923745ab811e60275663e
+      internalID: -262028811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_41
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 384
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9783b1a26885344798023c65c630f65
+      internalID: 1643497587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_42
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 384
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336a5113f07d3d74ebd439dcc2a8872e
+      internalID: -1194550302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_43
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 385
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c0c47ba204c64a80ff57b78cdf03f
+      internalID: -1842111010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_44
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 384
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e33b983fb1b3dc4dbd6b8b5ce99a5cc
+      internalID: -1423546163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_45
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 384
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ea2518748269b46a09170d02eefff0
+      internalID: 1414336455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_46
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 385
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994c69dcce7566749bb28d42f18d968d
+      internalID: -1861880413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_47
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 384
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771d58d107ef43544aeb6d62c4d87b56
+      internalID: -130646253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 287
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184559861fdec7945b5a6892ea8faf26
+      internalID: -40476405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 289
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fc37fa7b85f37439ed796672648112
+      internalID: -1504040942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_50
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 287
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac73e4352359dc458424b1f16da95dc
+      internalID: -1366242755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_51
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 287
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5142df0b2d0734bb71066362729895
+      internalID: -1220263342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_52
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 289
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297bec456faa7cd4e840cadd2843aa4f
+      internalID: 994872184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_53
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 287
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635c3c7a3cb8aee4c882b8efdc98ce75
+      internalID: -1639840228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_54
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 287
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b984f9eb5f6a5ed48b1af4e004c100bf
+      internalID: 1478055954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_55
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 289
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0266632997e29048a49c1d055547fa6
+      internalID: -1988933909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_56
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 287
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e60fb109c8c7f46b8cb5bb89d98e5c
+      internalID: 1525084023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_57
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 287
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df40fc12dbc5cc4d9fd4b7779fbcf43
+      internalID: -1787119333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_58
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 289
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb64bb4143d79c4478e6e6f5c4ac60f8
+      internalID: -2130157883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_59
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 287
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b616ac787e794f9098a85e9f41749
+      internalID: 655338069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 192
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd7f51b9769eac4991b599e5b98c68f
+      internalID: 1882841673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 191
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9c32033bf694546909abc6226535fb
+      internalID: 145754447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 192
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465d43ce4124aa246ba020ae4c0e2417
+      internalID: -1774213382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_63
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 192
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8a36b1fffb1844da8286b88a482ce8
+      internalID: 1098334812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_64
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 192
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f437904dddb398d42857d8eb1b779ca1
+      internalID: 204259525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_65
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 192
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f3f0474f8e6e6459f5829c24064782
+      internalID: -712404567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_66
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 192
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eac14de776f6d340a1fc4a77fda606c
+      internalID: 1239005605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_67
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 191
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daf1e6a664e9a24f949f50758879b10
+      internalID: 1430342174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_68
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 192
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a287408905f9b5439c757a716d17eb1
+      internalID: 710007143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_69
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 192
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a079aa981c9364b87180b648459472
+      internalID: -180383782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_70
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 191
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7241fe2030cb754c99e9d54a8dd06db
+      internalID: 566762522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_71
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 192
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4164969baf97b6a44baa6484a0dba568
+      internalID: 13764384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_72
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 96
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40b2ef20e2d37e468f7bdbfcbc3baab
+      internalID: -436453200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_73
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 96
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677aef0a08d2b0f4f902e7edb08d48ea
+      internalID: 1280154926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_74
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 96
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8256a19bae7fc4ba20044cdb9fa13e
+      internalID: -831508803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_75
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 96
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79b0dafd05ce264fa328f812a6cc6e9
+      internalID: 962499672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_76
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 96
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130cc25313f65ff4fa25436ab836593c
+      internalID: 1718284636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_77
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 96
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83216b8c0374d3245a709fb8cd07c29a
+      internalID: -843195691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_78
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 96
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d591a0b7dd0606c4bb108cc1f6ca83b9
+      internalID: 1000117132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_79
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 96
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b27aff66295dd4a956b6dd200567f1
+      internalID: 1127308955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_80
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 96
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1256c967faf2fe540bf1d3b94a1fcc79
+      internalID: -492626554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_81
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 96
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a282d69d01867f349a6504dc2a668fd5
+      internalID: 1496519909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_82
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 96
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839354a08e46e7d48a250c074380600f
+      internalID: 436918732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_83
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 96
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6467df6004f21439428cfa9991d04c
+      internalID: -2018932612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_84
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba143aae5001e04aab75f81136dac69
+      internalID: 274624490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_85
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15762e3e46ac40049b0814ef1fdb0832
+      internalID: 204042269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8699a09defde3fa4aa3713a3a5942a1f
+      internalID: -701677858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_87
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fe2b5f5a2d20c46957950c3571fd95
+      internalID: 594043874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_88
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0c9a2b2e14b2c4982517cc460e0dc1
+      internalID: -386839313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_89
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8304e910bacc44a9e0c0a1ed83e0ba
+      internalID: 1417983778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_90
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da0d54fb19d8c541a125292d093a3ce
+      internalID: 1690111149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6024739c4d9304e9beb7bc5466fda2
+      internalID: -1870184790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_92
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ab66b7148b9f946867985079552095
+      internalID: -1430385854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_93
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 0
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d235330abadf7604180f22810dc5be8a
+      internalID: 905109103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_94
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 0
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dcb46f555d3fb47aeb1d2b7b5b183e
+      internalID: 2128949275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Inmates_Orc2_95
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 0
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52baf9fead7a473438a50b22363bd96a
+      internalID: -609512145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      C_Inmates_Orc2_0: 667554576
+      C_Inmates_Orc2_1: -577673780
+      C_Inmates_Orc2_10: -1991607658
+      C_Inmates_Orc2_11: -1145055047
+      C_Inmates_Orc2_12: 1075418576
+      C_Inmates_Orc2_13: -335618588
+      C_Inmates_Orc2_14: -612803087
+      C_Inmates_Orc2_15: -1234160808
+      C_Inmates_Orc2_16: 938005112
+      C_Inmates_Orc2_17: 1737203280
+      C_Inmates_Orc2_18: 1690727064
+      C_Inmates_Orc2_19: 2018554976
+      C_Inmates_Orc2_2: 1536208105
+      C_Inmates_Orc2_20: -1442360463
+      C_Inmates_Orc2_21: 1078878812
+      C_Inmates_Orc2_22: 547340470
+      C_Inmates_Orc2_23: 1215792145
+      C_Inmates_Orc2_24: -495970217
+      C_Inmates_Orc2_25: -1554264831
+      C_Inmates_Orc2_26: -1570547919
+      C_Inmates_Orc2_27: 723018399
+      C_Inmates_Orc2_28: 1973530882
+      C_Inmates_Orc2_29: 1217989330
+      C_Inmates_Orc2_3: -898257773
+      C_Inmates_Orc2_30: 334666128
+      C_Inmates_Orc2_31: 2022383832
+      C_Inmates_Orc2_32: 16828093
+      C_Inmates_Orc2_33: 1902379594
+      C_Inmates_Orc2_34: 930428758
+      C_Inmates_Orc2_35: -589341344
+      C_Inmates_Orc2_36: 1163271528
+      C_Inmates_Orc2_37: 110481478
+      C_Inmates_Orc2_38: 1544176791
+      C_Inmates_Orc2_39: -733199539
+      C_Inmates_Orc2_4: -1774206508
+      C_Inmates_Orc2_40: -262028811
+      C_Inmates_Orc2_41: 1643497587
+      C_Inmates_Orc2_42: -1194550302
+      C_Inmates_Orc2_43: -1842111010
+      C_Inmates_Orc2_44: -1423546163
+      C_Inmates_Orc2_45: 1414336455
+      C_Inmates_Orc2_46: -1861880413
+      C_Inmates_Orc2_47: -130646253
+      C_Inmates_Orc2_48: -40476405
+      C_Inmates_Orc2_49: -1504040942
+      C_Inmates_Orc2_5: -37644446
+      C_Inmates_Orc2_50: -1366242755
+      C_Inmates_Orc2_51: -1220263342
+      C_Inmates_Orc2_52: 994872184
+      C_Inmates_Orc2_53: -1639840228
+      C_Inmates_Orc2_54: 1478055954
+      C_Inmates_Orc2_55: -1988933909
+      C_Inmates_Orc2_56: 1525084023
+      C_Inmates_Orc2_57: -1787119333
+      C_Inmates_Orc2_58: -2130157883
+      C_Inmates_Orc2_59: 655338069
+      C_Inmates_Orc2_6: -785213414
+      C_Inmates_Orc2_60: 1882841673
+      C_Inmates_Orc2_61: 145754447
+      C_Inmates_Orc2_62: -1774213382
+      C_Inmates_Orc2_63: 1098334812
+      C_Inmates_Orc2_64: 204259525
+      C_Inmates_Orc2_65: -712404567
+      C_Inmates_Orc2_66: 1239005605
+      C_Inmates_Orc2_67: 1430342174
+      C_Inmates_Orc2_68: 710007143
+      C_Inmates_Orc2_69: -180383782
+      C_Inmates_Orc2_7: 1285390420
+      C_Inmates_Orc2_70: 566762522
+      C_Inmates_Orc2_71: 13764384
+      C_Inmates_Orc2_72: -436453200
+      C_Inmates_Orc2_73: 1280154926
+      C_Inmates_Orc2_74: -831508803
+      C_Inmates_Orc2_75: 962499672
+      C_Inmates_Orc2_76: 1718284636
+      C_Inmates_Orc2_77: -843195691
+      C_Inmates_Orc2_78: 1000117132
+      C_Inmates_Orc2_79: 1127308955
+      C_Inmates_Orc2_8: -519362944
+      C_Inmates_Orc2_80: -492626554
+      C_Inmates_Orc2_81: 1496519909
+      C_Inmates_Orc2_82: 436918732
+      C_Inmates_Orc2_83: -2018932612
+      C_Inmates_Orc2_84: 274624490
+      C_Inmates_Orc2_85: 204042269
+      C_Inmates_Orc2_86: -701677858
+      C_Inmates_Orc2_87: 594043874
+      C_Inmates_Orc2_88: -386839313
+      C_Inmates_Orc2_89: 1417983778
+      C_Inmates_Orc2_9: 817136155
+      C_Inmates_Orc2_90: 1690111149
+      C_Inmates_Orc2_91: -1870184790
+      C_Inmates_Orc2_92: -1430385854
+      C_Inmates_Orc2_93: 905109103
+      C_Inmates_Orc2_94: 2128949275
+      C_Inmates_Orc2_95: -609512145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

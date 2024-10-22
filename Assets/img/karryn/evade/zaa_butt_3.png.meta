@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 8736800d6beff444fa33785d1aeda6da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -463247310506109654
+    second: zaa_butt_3_0
+  - first:
+      213: 6702017915348992161
+    second: zaa_butt_3_1
+  - first:
+      213: -1531607879597829374
+    second: zaa_butt_3_2
+  - first:
+      213: -446825641370050175
+    second: zaa_butt_3_3
+  - first:
+      213: -3843716305105065997
+    second: zaa_butt_3_4
+  - first:
+      213: 6590660056598750571
+    second: zaa_butt_3_5
+  - first:
+      213: 3190318934700207577
+    second: zaa_butt_3_6
+  - first:
+      213: -8087553098326872041
+    second: zaa_butt_3_7
+  - first:
+      213: -2122555229203549260
+    second: zaa_butt_3_8
+  - first:
+      213: 7310149709105426776
+    second: zaa_butt_3_9
+  - first:
+      213: 6752996868568234693
+    second: zaa_butt_3_10
+  - first:
+      213: -3108456091247607729
+    second: zaa_butt_3_11
+  - first:
+      213: -8816013782628604381
+    second: zaa_butt_3_12
+  - first:
+      213: 1994315453654286851
+    second: zaa_butt_3_13
+  - first:
+      213: 6312177800167146072
+    second: zaa_butt_3_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_butt_3_0
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 413
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25d02686073299f0800000000000000
+      internalID: -463247310506109654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_1
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 416
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a04ea209c9520d50800000000000000
+      internalID: 6702017915348992161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_2
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 366
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203d1619fb2aebae0800000000000000
+      internalID: -1531607879597829374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_3
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 342
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1812a91527e8cc9f0800000000000000
+      internalID: -446825641370050175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_4
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 345
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7e5d8a26068aac0800000000000000
+      internalID: -3843716305105065997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_5
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 290
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65ace4176ab67b50800000000000000
+      internalID: 6590660056598750571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_6
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd22070b2a464c20800000000000000
+      internalID: 3190318934700207577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 314
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710fd188e4d33cf80800000000000000
+      internalID: -8087553098326872041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_8
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 315
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3bc2bc34b2b82e0800000000000000
+      internalID: -2122555229203549260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_9
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 321
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851772afd6ed27560800000000000000
+      internalID: 7310149709105426776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_10
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 233
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cab5508fd677bd50800000000000000
+      internalID: 6752996868568234693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 294
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40894187ab8cd4d0800000000000000
+      internalID: -3108456091247607729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 276
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32669778c2a37a580800000000000000
+      internalID: -8816013782628604381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_13
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 236
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302c229b65b3dab10800000000000000
+      internalID: 1994315453654286851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_butt_3_14
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 251
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852c112144c599750800000000000000
+      internalID: 6312177800167146072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_butt_3_0: -463247310506109654
+      zaa_butt_3_1: 6702017915348992161
+      zaa_butt_3_10: 6752996868568234693
+      zaa_butt_3_11: -3108456091247607729
+      zaa_butt_3_12: -8816013782628604381
+      zaa_butt_3_13: 1994315453654286851
+      zaa_butt_3_14: 6312177800167146072
+      zaa_butt_3_2: -1531607879597829374
+      zaa_butt_3_3: -446825641370050175
+      zaa_butt_3_4: -3843716305105065997
+      zaa_butt_3_5: 6590660056598750571
+      zaa_butt_3_6: 3190318934700207577
+      zaa_butt_3_7: -8087553098326872041
+      zaa_butt_3_8: -2122555229203549260
+      zaa_butt_3_9: 7310149709105426776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

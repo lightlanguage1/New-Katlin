@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 5e844a41e5153614b8604410c7821e18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7747651192679507957
+    second: zaa_glory_leftwall_b_1_0
+  - first:
+      213: 252110006595290276
+    second: zaa_glory_leftwall_b_1_1
+  - first:
+      213: -7816847119934271393
+    second: zaa_glory_leftwall_b_1_2
+  - first:
+      213: 7956887159556540840
+    second: zaa_glory_leftwall_b_1_3
+  - first:
+      213: -6989618276741704291
+    second: zaa_glory_leftwall_b_1_4
+  - first:
+      213: -3096109582124792769
+    second: zaa_glory_leftwall_b_1_5
+  - first:
+      213: 5983368578907424832
+    second: zaa_glory_leftwall_b_1_6
+  - first:
+      213: 3240336291398357527
+    second: zaa_glory_leftwall_b_1_7
+  - first:
+      213: -8288486645145809119
+    second: zaa_glory_leftwall_b_1_8
+  - first:
+      213: -5293718908199242443
+    second: zaa_glory_leftwall_b_1_9
+  - first:
+      213: 5502395741345711051
+    second: zaa_glory_leftwall_b_1_10
+  - first:
+      213: 3249998853488029932
+    second: zaa_glory_leftwall_b_1_11
+  - first:
+      213: -1292338870040914752
+    second: zaa_glory_leftwall_b_1_12
+  - first:
+      213: -2982838671921808362
+    second: zaa_glory_leftwall_b_1_13
+  - first:
+      213: -6072632090572736807
+    second: zaa_glory_leftwall_b_1_14
+  - first:
+      213: 5678909381863241994
+    second: zaa_glory_leftwall_b_1_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 757
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f72b4ff5bf258b60800000000000000
+      internalID: 7747651192679507957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 735
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a40f6b17bcaf7300800000000000000
+      internalID: 252110006595290276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 709
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5058c8b5faf48390800000000000000
+      internalID: -7816847119934271393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 736
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a90c37d6ba8c6e60800000000000000
+      internalID: 7956887159556540840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 743
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d959b3bb533effe90800000000000000
+      internalID: -6989618276741704291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 714
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34c4cb2db86805d0800000000000000
+      internalID: -3096109582124792769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 660
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048c2027502390350800000000000000
+      internalID: 5983368578907424832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 720
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7121b9160bcf7fc20800000000000000
+      internalID: 3240336291398357527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 697
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fc38e7f4169fc80800000000000000
+      internalID: -8288486645145809119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 588
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535f30843bee886b0800000000000000
+      internalID: -5293718908199242443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 564
+        width: 24
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3888816cf6c5c40800000000000000
+      internalID: 5502395741345711051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 571
+        width: 79
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0b49eecb05a1d20800000000000000
+      internalID: 3249998853488029932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 564
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c418c115a0b01ee0800000000000000
+      internalID: -1292338870040914752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 528
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c7dc91804da96d0800000000000000
+      internalID: -2982838671921808362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 493
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d636cda94da9bba0800000000000000
+      internalID: -6072632090572736807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_glory_leftwall_b_1_15
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 491
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a097791aef98fce40800000000000000
+      internalID: 5678909381863241994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_glory_leftwall_b_1_0: 7747651192679507957
+      zaa_glory_leftwall_b_1_1: 252110006595290276
+      zaa_glory_leftwall_b_1_10: 5502395741345711051
+      zaa_glory_leftwall_b_1_11: 3249998853488029932
+      zaa_glory_leftwall_b_1_12: -1292338870040914752
+      zaa_glory_leftwall_b_1_13: -2982838671921808362
+      zaa_glory_leftwall_b_1_14: -6072632090572736807
+      zaa_glory_leftwall_b_1_15: 5678909381863241994
+      zaa_glory_leftwall_b_1_2: -7816847119934271393
+      zaa_glory_leftwall_b_1_3: 7956887159556540840
+      zaa_glory_leftwall_b_1_4: -6989618276741704291
+      zaa_glory_leftwall_b_1_5: -3096109582124792769
+      zaa_glory_leftwall_b_1_6: 5983368578907424832
+      zaa_glory_leftwall_b_1_7: 3240336291398357527
+      zaa_glory_leftwall_b_1_8: -8288486645145809119
+      zaa_glory_leftwall_b_1_9: -5293718908199242443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

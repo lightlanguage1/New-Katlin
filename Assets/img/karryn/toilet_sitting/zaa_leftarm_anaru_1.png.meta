@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: e8ec23047d95f8c4abcd8c8ddb38b0c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4308294536412925549
+    second: zaa_leftarm_anaru_1_0
+  - first:
+      213: -7748252292727978692
+    second: zaa_leftarm_anaru_1_1
+  - first:
+      213: -910447094279477304
+    second: zaa_leftarm_anaru_1_2
+  - first:
+      213: -5156366350849754120
+    second: zaa_leftarm_anaru_1_3
+  - first:
+      213: 4608766986048236772
+    second: zaa_leftarm_anaru_1_4
+  - first:
+      213: -1956388951964209641
+    second: zaa_leftarm_anaru_1_5
+  - first:
+      213: 3874143959526611576
+    second: zaa_leftarm_anaru_1_6
+  - first:
+      213: 383826929783770401
+    second: zaa_leftarm_anaru_1_7
+  - first:
+      213: -5529746084281570522
+    second: zaa_leftarm_anaru_1_8
+  - first:
+      213: 5861426338358917273
+    second: zaa_leftarm_anaru_1_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_leftarm_anaru_1_0
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 378
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391f95902fcd534c0800000000000000
+      internalID: -4308294536412925549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_anaru_1_1
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 400
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35c7dd779da87490800000000000000
+      internalID: -7748252292727978692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_anaru_1_2
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 297
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c76fa601317d53f0800000000000000
+      internalID: -910447094279477304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_anaru_1_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 184
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbb2dd9f18e078b0800000000000000
+      internalID: -5156366350849754120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_anaru_1_4
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 163
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ece3ffc721a5ff30800000000000000
+      internalID: 4608766986048236772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_anaru_1_5
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 184
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eaca31d9289d4e0800000000000000
+      internalID: -1956388951964209641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_anaru_1_6
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 137
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a1f44b769b3c530800000000000000
+      internalID: 3874143959526611576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_anaru_1_7
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 110
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d8dfc1f80a35500800000000000000
+      internalID: 383826929783770401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_anaru_1_8
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 105
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b2a44fb356243b0800000000000000
+      internalID: -5529746084281570522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftarm_anaru_1_9
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 103
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99870071338f75150800000000000000
+      internalID: 5861426338358917273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_leftarm_anaru_1_0: -4308294536412925549
+      zaa_leftarm_anaru_1_1: -7748252292727978692
+      zaa_leftarm_anaru_1_2: -910447094279477304
+      zaa_leftarm_anaru_1_3: -5156366350849754120
+      zaa_leftarm_anaru_1_4: 4608766986048236772
+      zaa_leftarm_anaru_1_5: -1956388951964209641
+      zaa_leftarm_anaru_1_6: 3874143959526611576
+      zaa_leftarm_anaru_1_7: 383826929783770401
+      zaa_leftarm_anaru_1_8: -5529746084281570522
+      zaa_leftarm_anaru_1_9: 5861426338358917273
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

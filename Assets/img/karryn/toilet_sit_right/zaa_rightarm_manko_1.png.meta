@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 831c416b8126ea547a888698947ba53a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3873385992351934243
+    second: zaa_rightarm_manko_1_0
+  - first:
+      213: 3406346817428443851
+    second: zaa_rightarm_manko_1_1
+  - first:
+      213: -7637186214196070848
+    second: zaa_rightarm_manko_1_2
+  - first:
+      213: -3076456158498292440
+    second: zaa_rightarm_manko_1_3
+  - first:
+      213: -7830244437812000165
+    second: zaa_rightarm_manko_1_4
+  - first:
+      213: -1522075447932784950
+    second: zaa_rightarm_manko_1_5
+  - first:
+      213: 877967814756442957
+    second: zaa_rightarm_manko_1_6
+  - first:
+      213: 3762864259336608997
+    second: zaa_rightarm_manko_1_7
+  - first:
+      213: -6249429390531739983
+    second: zaa_rightarm_manko_1_8
+  - first:
+      213: -7355428055063000331
+    second: zaa_rightarm_manko_1_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_rightarm_manko_1_0
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 524
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3276c18b90801c530800000000000000
+      internalID: 3873385992351934243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_manko_1_1
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 405
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2da920266c54f20800000000000000
+      internalID: 3406346817428443851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_manko_1_2
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 305
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046355b0a93430690800000000000000
+      internalID: -7637186214196070848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_manko_1_3
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 209
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d75a17c6b3e45d0800000000000000
+      internalID: -3076456158498292440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_manko_1_4
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 239
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5accb39b22655390800000000000000
+      internalID: -7830244437812000165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_manko_1_5
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 126
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace6f94c17080eae0800000000000000
+      internalID: -1522075447932784950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_manko_1_6
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 165
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43a8ca631b2f2c00800000000000000
+      internalID: 877967814756442957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_manko_1_7
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 108
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec95cb7b11683430800000000000000
+      internalID: 3762864259336608997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_manko_1_8
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 110
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be387884119549a0800000000000000
+      internalID: -6249429390531739983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_rightarm_manko_1_9
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 103
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa070797254ce990800000000000000
+      internalID: -7355428055063000331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_rightarm_manko_1_0: 3873385992351934243
+      zaa_rightarm_manko_1_1: 3406346817428443851
+      zaa_rightarm_manko_1_2: -7637186214196070848
+      zaa_rightarm_manko_1_3: -3076456158498292440
+      zaa_rightarm_manko_1_4: -7830244437812000165
+      zaa_rightarm_manko_1_5: -1522075447932784950
+      zaa_rightarm_manko_1_6: 877967814756442957
+      zaa_rightarm_manko_1_7: 3762864259336608997
+      zaa_rightarm_manko_1_8: -6249429390531739983
+      zaa_rightarm_manko_1_9: -7355428055063000331
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

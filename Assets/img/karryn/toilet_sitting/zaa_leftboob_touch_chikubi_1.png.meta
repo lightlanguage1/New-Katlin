@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: e9377c913d16ae0469bd2278407e732c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3442429169872757729
+    second: zaa_leftboob_touch_chikubi_1_0
+  - first:
+      213: 4804256130835041727
+    second: zaa_leftboob_touch_chikubi_1_1
+  - first:
+      213: 516677989650247892
+    second: zaa_leftboob_touch_chikubi_1_2
+  - first:
+      213: -4455982244622104433
+    second: zaa_leftboob_touch_chikubi_1_3
+  - first:
+      213: 1835653034046288331
+    second: zaa_leftboob_touch_chikubi_1_4
+  - first:
+      213: -8039629090087605453
+    second: zaa_leftboob_touch_chikubi_1_5
+  - first:
+      213: -8640225902711767458
+    second: zaa_leftboob_touch_chikubi_1_6
+  - first:
+      213: 8309984109024732836
+    second: zaa_leftboob_touch_chikubi_1_7
+  - first:
+      213: 5988238967863791234
+    second: zaa_leftboob_touch_chikubi_1_8
+  - first:
+      213: 8549472423013297821
+    second: zaa_leftboob_touch_chikubi_1_9
+  - first:
+      213: 3395785391153088868
+    second: zaa_leftboob_touch_chikubi_1_10
+  - first:
+      213: -9104716909658109946
+    second: zaa_leftboob_touch_chikubi_1_11
+  - first:
+      213: 1166864573901220316
+    second: zaa_leftboob_touch_chikubi_1_12
+  - first:
+      213: -3524216015981099693
+    second: zaa_leftboob_touch_chikubi_1_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_0
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 473
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e365ba5717f5cf20800000000000000
+      internalID: 3442429169872757729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_1
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 454
+        width: 48
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd4a683f752ca240800000000000000
+      internalID: 4804256130835041727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_2
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 501
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0bd54e4eb9b2700800000000000000
+      internalID: 516677989650247892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_3
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 491
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f880adfd1cb2922c0800000000000000
+      internalID: -4455982244622104433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_4
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 519
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1723175bc897910800000000000000
+      internalID: 1835653034046288331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_5
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 413
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b6e6730ff7d6090800000000000000
+      internalID: -8039629090087605453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_6
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 505
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e7cb1c150c71880800000000000000
+      internalID: -8640225902711767458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 461
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a66f8bd48ef25370800000000000000
+      internalID: 8309984109024732836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_8
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 477
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e4cad3d9f7a1350800000000000000
+      internalID: 5988238967863791234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 466
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ea4b62fd3d5a670800000000000000
+      internalID: 8549472423013297821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_10
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 419
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469042552d0402f20800000000000000
+      internalID: 3395785391153088868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_11
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 407
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6080653a53c85a180800000000000000
+      internalID: -9104716909658109946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_12
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 410
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9ae5cc529813010800000000000000
+      internalID: 1166864573901220316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_leftboob_touch_chikubi_1_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 399
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35544bf9438771fc0800000000000000
+      internalID: -3524216015981099693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_leftboob_touch_chikubi_1_0: 3442429169872757729
+      zaa_leftboob_touch_chikubi_1_1: 4804256130835041727
+      zaa_leftboob_touch_chikubi_1_10: 3395785391153088868
+      zaa_leftboob_touch_chikubi_1_11: -9104716909658109946
+      zaa_leftboob_touch_chikubi_1_12: 1166864573901220316
+      zaa_leftboob_touch_chikubi_1_13: -3524216015981099693
+      zaa_leftboob_touch_chikubi_1_2: 516677989650247892
+      zaa_leftboob_touch_chikubi_1_3: -4455982244622104433
+      zaa_leftboob_touch_chikubi_1_4: 1835653034046288331
+      zaa_leftboob_touch_chikubi_1_5: -8039629090087605453
+      zaa_leftboob_touch_chikubi_1_6: -8640225902711767458
+      zaa_leftboob_touch_chikubi_1_7: 8309984109024732836
+      zaa_leftboob_touch_chikubi_1_8: 5988238967863791234
+      zaa_leftboob_touch_chikubi_1_9: 8549472423013297821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 4624f10917baf044d90f06de46b2ea1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5075636286942486437
+    second: frontA_offbalanced_confident_0
+  - first:
+      213: 4227639191948246714
+    second: frontA_offbalanced_confident_1
+  - first:
+      213: -3161072130146285241
+    second: frontA_offbalanced_confident_2
+  - first:
+      213: 1484865713180934535
+    second: frontA_offbalanced_confident_3
+  - first:
+      213: 1971181456112114149
+    second: frontA_offbalanced_confident_4
+  - first:
+      213: -3592980416690467280
+    second: frontA_offbalanced_confident_5
+  - first:
+      213: 1238611588677732616
+    second: frontA_offbalanced_confident_6
+  - first:
+      213: 7465318284426535055
+    second: frontA_offbalanced_confident_7
+  - first:
+      213: -6015929231931598488
+    second: frontA_offbalanced_confident_8
+  - first:
+      213: 7110271240664678440
+    second: frontA_offbalanced_confident_9
+  - first:
+      213: -8080491799880941989
+    second: frontA_offbalanced_confident_10
+  - first:
+      213: 2278709647936763172
+    second: frontA_offbalanced_confident_11
+  - first:
+      213: 4989824004100636337
+    second: frontA_offbalanced_confident_12
+  - first:
+      213: -2617711910406081248
+    second: frontA_offbalanced_confident_13
+  - first:
+      213: 6351425674994887471
+    second: frontA_offbalanced_confident_14
+  - first:
+      213: 2854227753402664488
+    second: frontA_offbalanced_confident_15
+  - first:
+      213: 5527020909879724894
+    second: frontA_offbalanced_confident_16
+  - first:
+      213: 7486936349075115678
+    second: frontA_offbalanced_confident_17
+  - first:
+      213: -6038439695771564534
+    second: frontA_offbalanced_confident_18
+  - first:
+      213: -7846850406806985483
+    second: frontA_offbalanced_confident_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_0
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 768
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50e5bb50b7bf89b0800000000000000
+      internalID: -5075636286942486437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_1
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 697
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe389232779baa30800000000000000
+      internalID: 4227639191948246714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 669
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7494e3d45ad9124d0800000000000000
+      internalID: -3161072130146285241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_3
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 681
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7818e4dbf7d4b9410800000000000000
+      internalID: 1484865713180934535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_4
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 660
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9566f271b0b5b10800000000000000
+      internalID: 1971181456112114149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_5
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 618
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eca32f85b232ec0800000000000000
+      internalID: -3592980416690467280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 565
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80981dd6dae603110800000000000000
+      internalID: 1238611588677732616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_7
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 564
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80e87e3d632a9760800000000000000
+      internalID: 7465318284426535055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_8
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 443
+        width: 28
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86914d0cc30238ca0800000000000000
+      internalID: -6015929231931598488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_9
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 525
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8208e748502cca260800000000000000
+      internalID: 7110271240664678440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_10
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 458
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eb3a135835cdf80800000000000000
+      internalID: -8080491799880941989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_11
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 322
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425b6870a5a9f9f10800000000000000
+      internalID: 2278709647936763172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_12
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 218
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beb2289e7a6f3540800000000000000
+      internalID: 4989824004100636337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_13
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 232
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025bfeff2e40cabd0800000000000000
+      internalID: -2617711910406081248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_14
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 142
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bad57000cc42850800000000000000
+      internalID: 6351425674994887471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_15
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 44
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82680a5f4014c9720800000000000000
+      internalID: 2854227753402664488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_16
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 14
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b898feb3ce3bc40800000000000000
+      internalID: 5527020909879724894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_17
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 57
+        width: 33
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e059621f0f6e760800000000000000
+      internalID: 7486936349075115678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_18
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a060be7f617233ca0800000000000000
+      internalID: -6038439695771564534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontA_offbalanced_confident_19
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 14
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4e3a021236a1390800000000000000
+      internalID: -7846850406806985483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      frontA_offbalanced_confident_0: -5075636286942486437
+      frontA_offbalanced_confident_1: 4227639191948246714
+      frontA_offbalanced_confident_10: -8080491799880941989
+      frontA_offbalanced_confident_11: 2278709647936763172
+      frontA_offbalanced_confident_12: 4989824004100636337
+      frontA_offbalanced_confident_13: -2617711910406081248
+      frontA_offbalanced_confident_14: 6351425674994887471
+      frontA_offbalanced_confident_15: 2854227753402664488
+      frontA_offbalanced_confident_16: 5527020909879724894
+      frontA_offbalanced_confident_17: 7486936349075115678
+      frontA_offbalanced_confident_18: -6038439695771564534
+      frontA_offbalanced_confident_19: -7846850406806985483
+      frontA_offbalanced_confident_2: -3161072130146285241
+      frontA_offbalanced_confident_3: 1484865713180934535
+      frontA_offbalanced_confident_4: 1971181456112114149
+      frontA_offbalanced_confident_5: -3592980416690467280
+      frontA_offbalanced_confident_6: 1238611588677732616
+      frontA_offbalanced_confident_7: 7465318284426535055
+      frontA_offbalanced_confident_8: -6015929231931598488
+      frontA_offbalanced_confident_9: 7110271240664678440
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

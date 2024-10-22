@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6309673686184904493
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5149262341973126488}
+  - component: {fileID: 6394026066084519333}
+  - component: {fileID: 5577173157330352868}
+  - component: {fileID: 7091894289889779937}
+  m_Layer: 6
+  m_Name: Global Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &5149262341973126488
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6309673686184904493}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 662, y: -254}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &6394026066084519333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6309673686184904493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f36ebe6f49a02545857a99d584dd582, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isSuppress: 0
+  isClear1L: 0
+  battlePrevSceneName: 
+  curMainSceneName: 
+  mainScene1L: main1L
+  mainScene2L: main2L
+  mainScene3L: main3L
+  enemies: []
+  enemiesTransform:
+  - {fileID: 2928868441378983355, guid: d9ee92f795da9f549b0801d90533e04f, type: 3}
+  - {fileID: 2928868441378983355, guid: 1c37c47acd30f1642b82a09920402361, type: 3}
+  - {fileID: 2928868441378983355, guid: 76532f8968816e84abd53bb5ed42d715, type: 3}
+  - {fileID: 2928868441378983355, guid: cc9db1e4fdcf2d441b05c06cd38909f0, type: 3}
+  - {fileID: 2928868441378983355, guid: 2d91a04812909be4c90188897a225d25, type: 3}
+  - {fileID: 2928868441378983355, guid: caa8ac4cbfd1d994f8557df332532ee5, type: 3}
+  xuli: 0
+  battlePrevNpcName: 
+  enemy_x: 0
+  enemy_y: 0
+  enemy_z: 0
+  totalEnemy: {fileID: 6942398113688827175, guid: bcb5a0ecb94ccae4e86b0b878d0a9f3a, type: 3}
+  playerData:
+    num: 1
+    name: Karryn
+    x: 29
+    y: -33
+    z: 1
+    level: 1
+    sexVal: 1
+    money: 1000
+    dateTime: 0
+    nowTime: 
+  isWin: 0
+  duration: 10
+  inMainScene: 0
+  time: 0
+  timeText: {fileID: 2414484398918439234, guid: dd4c26e314fabb84eb1c7f000318ef47, type: 3}
+  lightShift: 0
+  databasePath: Data Source=Assets/StreamingAssets/Karryn
+--- !u!114 &5577173157330352868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6309673686184904493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9186f7bb1b1e08b43bcb849092b9f912, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  saveSlotPos: []
+--- !u!114 &7091894289889779937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6309673686184904493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c1037fc3bdfdee4bb9b932e847323b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

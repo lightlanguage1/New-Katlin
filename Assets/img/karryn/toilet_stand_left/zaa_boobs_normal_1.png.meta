@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 93afd0837d7b88d44b77a491e6221ed1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1458181998802579382
+    second: zaa_boobs_normal_1_0
+  - first:
+      213: -1075937409654681781
+    second: zaa_boobs_normal_1_1
+  - first:
+      213: 7619739117630090834
+    second: zaa_boobs_normal_1_2
+  - first:
+      213: 8165258201093928667
+    second: zaa_boobs_normal_1_3
+  - first:
+      213: -8535566335842197689
+    second: zaa_boobs_normal_1_4
+  - first:
+      213: 5206696633248981569
+    second: zaa_boobs_normal_1_5
+  - first:
+      213: 6455857022926858718
+    second: zaa_boobs_normal_1_6
+  - first:
+      213: -5248999224070398673
+    second: zaa_boobs_normal_1_7
+  - first:
+      213: -7699568873581919421
+    second: zaa_boobs_normal_1_8
+  - first:
+      213: -5517007659226770550
+    second: zaa_boobs_normal_1_9
+  - first:
+      213: 8193616042305007249
+    second: zaa_boobs_normal_1_10
+  - first:
+      213: 5387449714733834345
+    second: zaa_boobs_normal_1_11
+  - first:
+      213: -9191654603656979587
+    second: zaa_boobs_normal_1_12
+  - first:
+      213: -1770491465298645044
+    second: zaa_boobs_normal_1_13
+  - first:
+      213: 1069626304195008775
+    second: zaa_boobs_normal_1_14
+  - first:
+      213: -5164012661262387116
+    second: zaa_boobs_normal_1_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_0
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 227
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf2f785dc08c3410800000000000000
+      internalID: 1458181998802579382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_1
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 346
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f8af060a08111f0800000000000000
+      internalID: -1075937409654681781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_2
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 285
+        width: 53
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e6d7b3b50ceb960800000000000000
+      internalID: 7619739117630090834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 201
+        width: 59
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd67c8f8213d05170800000000000000
+      internalID: 8165258201093928667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 313
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fd75314a39b8980800000000000000
+      internalID: -8535566335842197689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_5
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 316
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142270e6007e14840800000000000000
+      internalID: 5206696633248981569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_6
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 186
+        width: 37
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9244cf1cfc79950800000000000000
+      internalID: 6455857022926858718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_7
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 234
+        width: 11
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d9bfe140fc727b0800000000000000
+      internalID: -5248999224070398673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_8
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 277
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343ce7e47e2a52590800000000000000
+      internalID: -7699568873581919421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_9
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 256
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83dda8a3c6af63b0800000000000000
+      internalID: -5517007659226770550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_10
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 217
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e288bf06295b170800000000000000
+      internalID: 8193616042305007249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_11
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 222
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9606dfbb8f014ca40800000000000000
+      internalID: 5387449714733834345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_12
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 210
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b11f266dea07080800000000000000
+      internalID: -9191654603656979587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_13
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 181
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf630d8463fd67e0800000000000000
+      internalID: -1770491465298645044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_14
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 166
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70915ffd47318de00800000000000000
+      internalID: 1069626304195008775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaa_boobs_normal_1_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 160
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458f5dd38ddb558b0800000000000000
+      internalID: -5164012661262387116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaa_boobs_normal_1_0: 1458181998802579382
+      zaa_boobs_normal_1_1: -1075937409654681781
+      zaa_boobs_normal_1_10: 8193616042305007249
+      zaa_boobs_normal_1_11: 5387449714733834345
+      zaa_boobs_normal_1_12: -9191654603656979587
+      zaa_boobs_normal_1_13: -1770491465298645044
+      zaa_boobs_normal_1_14: 1069626304195008775
+      zaa_boobs_normal_1_15: -5164012661262387116
+      zaa_boobs_normal_1_2: 7619739117630090834
+      zaa_boobs_normal_1_3: 8165258201093928667
+      zaa_boobs_normal_1_4: -8535566335842197689
+      zaa_boobs_normal_1_5: 5206696633248981569
+      zaa_boobs_normal_1_6: 6455857022926858718
+      zaa_boobs_normal_1_7: -5248999224070398673
+      zaa_boobs_normal_1_8: -7699568873581919421
+      zaa_boobs_normal_1_9: -5517007659226770550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
