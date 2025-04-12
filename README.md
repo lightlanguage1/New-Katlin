@@ -61,8 +61,9 @@ AST操作接口实现脚本优化（ScriptOptimizer）
 环境影响矩阵(EnvironmentImpactMatrix)
 
 扩展接口示例:
+
 [GameExtensionPoint("SkillSystem")] 
-public interface ISkillExtension {
+ public interface ISkillExtension {
     void OnSkillCast(SkillContext context);
     SkillEffect CalculateEffect(SkillMetadata metadata);
 }
