@@ -61,32 +61,40 @@ AST操作接口实现脚本优化（ScriptOptimizer）
 环境影响矩阵(EnvironmentImpactMatrix)
 
 扩展接口示例:
-c
-
+[GameExtensionPoint("SkillSystem")] 
+public interface ISkillExtension {
+    void OnSkillCast(SkillContext context);
+    SkillEffect CalculateEffect(SkillMetadata metadata);
+}
 
 部署说明
 环境要求
 Unity 2021.3 LTS
 Node.js 18.x (工具链服务)
 Redis 6.x (可选，性能监控数据存储)
+
 热加载配置
 # 在Unity项目根目录创建Modules文件夹
 mkdir Assets/Modules
 # 将编译好的.dll模块放入即可动态加载
+
 关键配置项
 EventBusConfig.xml: 事件总线吞吐量设置
 DI_Bindings.asset: 依赖注入绑定配置
 FeatureFlags.json: 功能开关控制
 
 注意事项
+
 技术限制
 动态代理生成器暂不支持IL2CPP后端
 环形缓冲区默认容量为4096事件/帧
 热加载模块需保持接口版本一致性
+
 素材规范
 /Resources/Customizable 目录内容可自由替换
 动态模型需符合RigSpec标准
 自定义模块需实现基础接口
+
 开源协议
 核心框架代码遵循MIT License
 示例素材仅限学习交流使用
@@ -118,9 +126,13 @@ FeatureFlags.json: 功能开关控制
 该项目为开源免费项目，仅用于练习和游戏重置，不涉及金钱交易。不允许商用和贩卖。玩家在使用和分享时请遵守开源协议，支持原创和开发者的努力。
 
 该文档完全聚焦技术实现细节，适用于开发者学习以下技术点：
+
 基于ECS的战斗系统设计
+
 高并发事件处理机制
+
 可扩展框架的模块化构建方法
+
 企业级游戏架构的质量保障方案
 
 ---
